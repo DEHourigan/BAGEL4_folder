@@ -1,0 +1,13 @@
+Query	Subject	percent	align_len	mistmatches	gap	q_start	q_end	s_start	s_end	evalue	bit_score
+10.1;Bovicin_HJ50	frame_1	100.000	55	0	0	1	55	14453	14507	7.13e-36	120
+102.1;Salivaricin_A	frame_1	47.368	38	17	2	12	48	14463	14498	7.99e-07	38.1
+103.1;Salivaricin_A2	frame_1	44.737	38	18	2	12	48	14463	14498	3.37e-06	36.2
+104.1;Salivaricin_A3	frame_1	48.649	37	18	1	12	48	14463	14498	6.43e-07	38.1
+105.1;Salivaricin_A4	frame_1	50.000	38	16	2	12	48	14463	14498	4.83e-07	38.5
+106.1;Salivaricin_A5	frame_1	47.368	38	17	2	12	48	14463	14498	7.99e-07	38.1
+109.1;SalivaricinA	frame_1	43.243	37	20	1	19	55	14463	14498	3.99e-06	36.6
+130.1;Thermophilin1277	frame_1	100.000	55	0	0	1	55	14453	14507	7.13e-36	120
+184.1;Macedovicin	frame_1	100.000	55	0	0	1	55	14453	14507	7.13e-36	120
+59.1;Macedovicin	frame_1	100.000	55	0	0	1	55	14453	14507	7.13e-36	120
+94.1;putative_lantibiotic	frame_1	43.243	37	20	1	15	51	14463	14498	3.24e-06	36.6
+95.1;putative_lantibiotic	frame_1	43.243	37	20	1	12	48	14463	14498	2.82e-06	36.6

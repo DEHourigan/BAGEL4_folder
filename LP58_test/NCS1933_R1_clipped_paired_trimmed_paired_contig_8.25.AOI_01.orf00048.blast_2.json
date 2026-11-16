@@ -1,0 +1,4 @@
+{"blasthits": [
+{ "blasthit": "1",
+ "htmlrecord": "<TABLE class=webblast><tr><th></th><th align=center>Database hit with <b>Plantaricin_N</b> (Bit Score=108.227)</th></tr><tr><td><br/></td><td></td></tr><tr><td class=align_right><b>Query</b></td><td><font face=courier>MKSLDKIAGLGIEMAEKDLTTVEGGKNYSKTWWYKSLTLLGKVAEGTSSAWHGLG</font></td></tr><tr><td></td><td><font face=courier>MKSLDKIAGLGIEMAEKDLTTVEGGKNYSKTWWYKSLTLLGKVAEGTSSAWHGLG</font></td></tr><tr><td class=align_right><b>Plantaricin_N</b></td><td><font face=courier>MKSLDKIAGLGIEMAEKDLTTVEGGKNYSKTWWYKSLTLLGKVAEGTSSAWHGLG</font></td></tr><tr><td><br/></td><td><font face=courier></font></td></tr><tr><td class=align_right>Subclass</td><td>D</td></tr><tr><td class=align_right>Organism</td><td>Lactobacillus plantarum</td></tr><tr><td class=align_right>NCBI</td><td><a href='https://www.ncbi.nlm.nih.gov/protein/NP_784207.1' target=_blank>NP_784207.1</a></td></tr></TABLE>"}
+]}

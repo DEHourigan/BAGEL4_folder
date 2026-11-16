@@ -1,0 +1,147 @@
+TransTermHP v2.08 (built on Jan 14 2011)
+25 bins; sample size is 20000000
+--pval-conf=/data/users/david/bagel4/tools/transterm_hp_v2.09/expterm.dat
+
+--gc=-2.3 --au=-0.9 --gu=1.3 --mm=3.5 --gap=6
+--max-len=59 --min-stem=4 --max-loop=13 --min-loop=3
+--uwin-length=6 --uwin-require=3 --max-hp-score=-2 --max-tail-score=-2.5
+--loop-penalty=1,2,3,4,5,6,7,8,9,10,11
+--start-cut=0 --end-cut=25
+
+Genes: 0.578377 %AT, 36535 nt, 259 terms.
+Intergenic: 0.59665 %AT, H2T: 6042 nt, 37 terms; T2T: 2092 nt, 47 terms; H2H: 4790 nt, 28 terms. 
+
+Each terminator entry starts in column 3 and is of the form:
+  term #       start - end      +/-  regionconf   hp     tail | notes
+Followed by the sequence of the 5' tail, 5' stem, loop, 3' stem, and 3' tail.
+Genes are interspersed, and start the first column.
+
+
+SEQUENCE NCS1933_R1_clipped_paired_trimmed_paired_contig_8.16.AOI_01  (length 47512)
+
+sORF_31          3756 - 3526     - | 
+sORF_32          3681 - 3526     - | 
+sORF_1           3623 - 3715     + | 
+orf00004         4285 - 5289     + | 
+orf00005         5295 - 5528     + | 
+sORF_2           5733 - 5870     + | 
+sORF_30          6130 - 5942     - | 
+orf00009         6119 - 7066     + | 
+orf00010         7095 - 7373     + | 
+  TERM 1         7395 - 7435     + F    89 -12.1 -3.73072 | opp_overlap 7395, overlap 7398
+  TTAGTCAGATTAAAA  TAACCGATATTCGACAA GGGCTAA TTGCCGAGTATCGGTTA  TTTCATAGAAAAGTT
+  TERM 2         7398 - 7432     + F    86  -9.4 -4.00042 | opp_overlap 7395, overlap 7395
+  GTCAGATTAAAATAA     CCGATATTCGACAA GGGCTAA TTGCCGAGTATCGG     TTATTTCATAGAAAA
+sORF_3           7419 - 7532     + | 
+sORF_4           7650 - 7754     + | 
+orf00011         7765 - 8010     + | 
+sORF_29          8241 - 8077     - | 
+sORF_5           8204 - 8329     + | 
+orf00014         8301 - 8456     + | 
+sORF_6           8431 - 8568     + | 
+orf00016         8585 - 9004     + | 
+sORF_7           9164 - 9313     + | 
+orf00018         9295 - 9759     + | 
+sORF_28         10038 - 9949     - | 
+orf00019        10655 - 10038    - | 
+orf00020        11813 - 10659    - | 
+orf00022        12608 - 11817    - | 
+orf00025        13587 - 12679    - | 
+sORF_8          13610 - 13714    + | 
+orf00026        13711 - 14526    + | 
+sORF_9          14582 - 14680    + | 
+  TERM 3        14876 - 14914    + TF  100 -22.1 -5.15634 | 
+  TGGTACCACGCGTTA   GCGTCCTTACAAAATCA ATTGA TGATTTTGTAAGGACGC   TTTTTTAGTCCCATG
+sORF_27         15080 - 14919    - | 
+sORF_10         14927 - 15019    + | 
+orf00028        15052 - 16428    + | 
+orf00031        16461 - 17006    + | 
+orf00032        17059 - 17658    + | 
+  TERM 4        17694 - 17718    + T   100   -10 -5.23316 | overlap 17695
+  TTAAGAACCGCTTGG          ACGCCGTAGT ATGGG ACTACGGCGC          TTTTTTAGTCTGATA
+  TERM 5        17695 - 17717    + T    95 -13.5 -3.72905 | overlap 17694
+  TAAGAACCGCTTGGA           CGCCGTAGT ATGGG ACTACGGCG           CTTTTTTAGTCTGAT
+sORF_26         17768 - 17679    - | 
+sORF_25         17878 - 17762    - | 
+orf00033        17999 - 18199    + | 
+orf00034        18196 - 18336    + | 
+orf00036        18389 - 18562    + | 
+sORF_24         18758 - 18627    - | 
+  TERM 6        18876 - 18843    - gR  100 -14.6 -4.78107 | opp_overlap 18843, overlap 18845
+  TATTACTATGAAAAA     CGGCTCCACCGTGG TAATTG CCACAGTGGAGCTG      TTTAAGCAAAAATTG
+  TERM 7        18874 - 18845    - gR  100 -15.8 -2.66962 | opp_overlap 18843, overlap 18843
+  TTACTATGAAAAACG       GCTCCACCGTGG TAATTG CCACAGTGGAGC        TGTTTAAGCAAAAAT
+orf00039        18730 - 18954    + | 
+orf00040        19131 - 18979    - | 
+orf00042        19824 - 19156    - | 
+sORF_23         19931 - 19821    - | 
+sORF_11         19852 - 19944    + | 
+orf00043        20155 - 19934    - | 
+orf00044        20607 - 20473    - | 
+sORF_12         20606 - 20716    + | 
+sORF_13         20747 - 20854    + | 
+orf00046        20829 - 20984    + | 
+orf00047        21016 - 21216    + | 
+sORF_14         21271 - 21360    + | 
+orf00048        21344 - 21511    + | 
+  TERM 8        21540 - 21582    + F    79  -8.7 -4.08221 | opp_overlap 21540, overlap 21543
+  TAGGAATTAGCAAAA TAATGATGGACTAGTCAAT AGTGA AATGATTGGTTCATCATTA TTTGATTGTATTCAG
+orf00049        21629 - 22828    + | 
+orf00050        22859 - 23605    + | 
+  TERM 9        23630 - 23618    - Tf   87  -4.9 -5.42259 | 
+  TGATTTGTAAAAAAA                TATAC TTA GTATA                CAATTGTATTGAATA
+sORF_22         23759 - 23655    - | 
+orf00052        23737 - 23886    + | 
+orf00053        23900 - 25240    + | 
+orf00054        25241 - 25984    + | 
+  TERM 10       26002 - 26032    + T    81    -7 -4.79955 | gap 1
+  TTTTAATATTATTTA      GAGCTTCTGTCAG TGTTAT TTGACAGA-GCTC       TTTTGTTATGAATAT
+sORF_21         26280 - 26188    - | 
+orf00057        27081 - 26290    - | 
+orf00059        27320 - 27162    - | 
+orf00061        27515 - 27345    - | 
+orf00063        27782 - 29932    + | 
+orf00064        29948 - 31324    + | 
+orf00066        31414 - 31587    + | 
+orf00067        31633 - 32103    + | 
+orf00068        32171 - 32839    + | 
+orf00070        32926 - 33606    + | 
+  TERM 11       33582 - 33613    + F    95 -14.6 -2.64472 | gap 1, opp_overlap 33582, overlap 33579 33578
+  GCACGTCACAGCTAA      TCTGGGCCTCATGCT AAT GGCATGAGGC-CAGA      TGGATTTGGCAAGTA
+orf00071        33691 - 34386    + | 
+orf00072        34524 - 34727    + | 
+  TERM 12       34807 - 34763    - T   100 -18.1 -4.93365 | gap 1, opp_overlap 34763
+  CGTGATAACGAAAAA CGACTGGAAGTAGC-TAGCG TAATAC CGCTGGGCTACTTCCAGTCG TTTTTTAATTTCAGT
+  TERM 13       34763 - 34807    + T   100 -20.3 -5.38497 | gap 1, opp_overlap 34763
+  CGTGATAACGAAAAA CGACTGGAAGTAG-CTAGCG TAATAC CGCTGGGCTACTTCCAGTCG TTTTTTAATTTCAGT
+orf00073        37131 - 34822    - | 
+orf00074        37335 - 38165    + | 
+sORF_20         38411 - 38295    - | 
+sORF_19         38532 - 38356    - | 
+sORF_15         38435 - 38551    + | 
+  TERM 14       38539 - 38573    + FH   86  -7.3 -5.14965 | gap 1
+  TGGTACCACGGTGAT    GCGTCCTAATTAACTA GTAT TAGTTGATCAGG-CGC     TTTTTTAGTGCCAAT
+orf00077        38596 - 39621    + | 
+  TERM 15       39680 - 39636    - T    85  -8.7 -4.41206 | opp_overlap 39638, overlap 39638
+  AATTATGGTAGAAAA TAGTGCAACTGACCGTC GGATGTGTGAA GACGGTGAGTTGCACTT TTTTGTAGACCCTTA
+  TERM 16       39638 - 39678    + T   100 -11.3 -5.24531 | opp_overlap 39636 39638
+  TTATGGTAGAAAATA  GTGCAACTGACCGTC GGATGTGTGAA GACGGTGAGTTGCAC  TTTTTTGTAGACCCT
+  TERM 17       39678 - 39638    - T    90 -11.3 -3.80877 | opp_overlap 39638, overlap 39636
+  TTATGGTAGAAAATA  GTGCAACTGACCGTC GGATGTGTGAA GACGGTGAGTTGCAC  TTTTTTGTAGACCCT
+sORF_18         39907 - 39806    - | 
+orf00079        39975 - 40739    + | 
+orf00081        40812 - 42173    + | 
+sORF_16         42180 - 42368    + | 
+sORF_17         42269 - 42373    + | 
+orf00085        42358 - 42780    + | 
+  TERM 18       42816 - 42847    + T   100 -13.2  -5.0133 | opp_overlap 42814 42816
+  GACTTCGTTAGAAGA      GTGCTGTAAATCCG TAAG TGGATTTACAGTAC       TTTTTTGAACAGATA
+orf00086        42947 - 42792    - | 
+orf00087        43000 - 44358    + | 
+orf00088        44376 - 45812    + | 
+  TERM 19       45880 - 45915    + F    88 -11.3 -3.54307 | gap 1, opp_overlap 45879, overlap 45881
+  GATGTTTGAAATAGT    TG-TCAATGGCCAGCT TTGAT AGCTGGCCATTGGGCG    TTTAGGAGGACTGTT
+  TERM 20       45881 - 45914    + F    83 -12.6 -2.72263 | gap 1, opp_overlap 45879, overlap 45880
+  ATGTTTGAAATAGTT     G-TCAATGGCCAGCT TTGAT AGCTGGCCATTGGGC     GTTTAGGAGGACTGT
+orf00089        45933 - 46829    + | 
+

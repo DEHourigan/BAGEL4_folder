@@ -1,0 +1,123 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2011-10-19" modified="2019-12-11" version="14">
+<accession>G0Z2H4</accession>
+<name>G0Z2H4_BACPN</name>
+<protein>
+<recommendedName>
+<fullName evidence="1">Lantibiotic</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">etnS</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Bacillus subtilis subsp. spizizenii</name>
+<dbReference type="NCBI Taxonomy" id="96241"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Bacillaceae</taxon>
+<taxon>Bacillus</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="2011" name="Appl. Environ. Microbiol." volume="77" first="1698" last="1707">
+<title>Entianin, a novel subtilin-like lantibiotic from Bacillus subtilis subsp. spizizenii DSM 15029T with high antimicrobial activity.</title>
+<authorList>
+<person name="Fuchs S.W."/>
+<person name="Jaskolla T.W."/>
+<person name="Bochmann S."/>
+<person name="Kotter P."/>
+<person name="Wichelhaus T."/>
+<person name="Karas M."/>
+<person name="Stein T."/>
+<person name="Entian K.D."/>
+</authorList>
+<dbReference type="PubMed" id="21239550"/>
+<dbReference type="DOI" id="10.1128/AEM.01962-10"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<reference key="2" evidence="2">
+<citation type="submission" date="2011-01" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Koetter P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Lanthionine-containing peptide antibiotic (lantibiotic) active on Gram-positive bacteria. The bactericidal activity of lantibiotics is based on depolarization of energized bacterial cytoplasmic membranes, initiated by the formation of aqueous transmembrane pores.</text>
+</comment>
+<comment type="PTM">
+<text evidence="1">Maturation of lantibiotics involves the enzymic conversion of Thr, and Ser into dehydrated AA and the formation of thioether bonds with cysteine. This is followed by membrane translocation and cleavage of the modified precursor.</text>
+</comment>
+<comment type="similarity">
+<text evidence="1">Belongs to the type A lantibiotic family.</text>
+</comment>
+<dbReference type="EMBL" id="HQ871873">
+<property type="protein sequence ID" value="AEK64494.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_041521073.1">
+<property type="nucleotide sequence ID" value="NZ_BJUC01000004.1"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005102">
+<property type="term" value="F:signaling receptor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019835">
+<property type="term" value="P:cytolysis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-UniRule"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR006079">
+<property type="entry name" value="Lantibiotic_typ-A_Bacillales"/>
+</dbReference>
+<dbReference type="Pfam" id="PF02052">
+<property type="entry name" value="Gallidermin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="PRINTS" id="PR00324">
+<property type="entry name" value="NISIN"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03731">
+<property type="entry name" value="lantibio_gallid"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="inferred from homology"/>
+<keyword id="KW-0044" evidence="1">Antibiotic</keyword>
+<keyword id="KW-0929" evidence="1">Antimicrobial</keyword>
+<keyword id="KW-0078" evidence="1">Bacteriocin</keyword>
+<keyword id="KW-0425" evidence="1">Lantibiotic</keyword>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="RuleBase" id="RU362078"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AEK64494.1"/>
+</source>
+</evidence>
+<sequence length="56" mass="6246" checksum="DECE716A42A1EBBA" modified="2011-10-19" version="1">MSKFDDFDLDVVKVSKQDSKITPQWKSESVCTPGCVTGLLQTCFLQTITCNCKISK</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+frame_3              -          87970 TIGR04195            -            421     7e-23   69.6  17.4   1   1   1.9e-23   1.1e-22   68.9  17.4    51   407 47429 47800 47412 47811 0.78 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ./db_hmm/TIGR04195.hmm
+# Target file:     LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna
+# Option settings: /data/users/david/bagel4/tools/hmmsearch/binaries/hmmsearch --domtblout LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.TIGR04195.domtblout --noali --domT 25 --cpu 10 ./db_hmm/TIGR04195.hmm LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna 
+# Current dir:     /data/users/david/bagel4
+# Date:            Tue Sep 29 01:05:35 2020
+# [ok]

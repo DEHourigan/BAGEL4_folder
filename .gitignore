@@ -1,0 +1,2 @@
+# The pipeline uses the unpacked executables in tools/blast/.
+/tools/ncbi-blast-2.10.1+-x64-linux.tar.gz

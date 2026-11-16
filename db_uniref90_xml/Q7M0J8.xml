@@ -1,0 +1,380 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2009-02-10" modified="2020-06-17" version="37">
+<accession>Q7M0J8</accession>
+<name>THCL_PLARO</name>
+<protein>
+<recommendedName>
+<fullName>Thiocillin GE2270</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Antibiotic GE2270</fullName>
+</alternativeName>
+</protein>
+<organism>
+<name type="scientific">Planobispora rosea</name>
+<dbReference type="NCBI Taxonomy" id="35762"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Streptosporangiales</taxon>
+<taxon>Streptosporangiaceae</taxon>
+<taxon>Planobispora</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1991" name="J. Antibiot." volume="44" first="693" last="701">
+<title>Antibiotic GE2270 A: a novel inhibitor of bacterial protein synthesis. I. Isolation and characterization.</title>
+<authorList>
+<person name="Selva E."/>
+<person name="Beretta G."/>
+<person name="Montanini N."/>
+<person name="Saddler G.S."/>
+<person name="Gastaldo L."/>
+<person name="Ferrari P."/>
+<person name="Lorenzetti R."/>
+<person name="Landini P."/>
+<person name="Ripamonti F."/>
+<person name="Goldstein B.P."/>
+<person name="Berti M."/>
+<person name="Montanaro L."/>
+<person name="Denaro M."/>
+</authorList>
+<dbReference type="PubMed" id="1908853"/>
+<dbReference type="DOI" id="10.7164/antibiotics.44.693"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>ATCC 53773 / GE2270</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1995" name="Rapid Commun. Mass Spectrom." volume="9" first="717" last="722">
+<title>Contribution of mass spectrometry to the structural confirmation of components of the antibiotic GE2270 complex.</title>
+<authorList>
+<person name="Colombo L."/>
+<person name="Stella S."/>
+<person name="Selva E."/>
+</authorList>
+<dbReference type="PubMed" id="7647369"/>
+<dbReference type="DOI" id="10.1002/rcm.1290090817"/>
+</citation>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>ATCC 53773 / GE2270</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2006" name="FEBS Lett." volume="580" first="4576" last="4581">
+<title>Elongation factor Tu-targeted antibiotics: four different structures, two mechanisms of action.</title>
+<authorList>
+<person name="Parmeggiani A."/>
+<person name="Nissen P."/>
+</authorList>
+<dbReference type="PubMed" id="16876786"/>
+<dbReference type="DOI" id="10.1016/j.febslet.2006.07.039"/>
+</citation>
+<scope>MECHANISM OF ACTION ON EF-TU</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="2007" name="Angew. Chem. Int. Ed." volume="46" first="4771" last="4774">
+<title>Total synthesis of the thiazolyl peptide GE2270 A.</title>
+<authorList>
+<person name="Muller H.M."/>
+<person name="Delgado O."/>
+<person name="Bach T."/>
+</authorList>
+<dbReference type="PubMed" id="17503407"/>
+<dbReference type="DOI" id="10.1002/anie.200700684"/>
+</citation>
+<scope>STRUCTURE VERIFICATION BY CHEMICAL SYNTHESIS</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1991" name="J. Antibiot." volume="44" first="702" last="715">
+<title>Antibiotic GE2270 A: a novel inhibitor of bacterial protein synthesis. II. Structure elucidation.</title>
+<authorList>
+<person name="Kettenring J."/>
+<person name="Colombo L."/>
+<person name="Ferrari P."/>
+<person name="Tavecchia P."/>
+<person name="Nebuloni M."/>
+<person name="Vekey K."/>
+<person name="Gallo G.G."/>
+<person name="Selva E."/>
+</authorList>
+<dbReference type="PubMed" id="1880060"/>
+<dbReference type="DOI" id="10.7164/antibiotics.44.702"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>AMIDATION AT PRO-14</scope>
+<scope>MASS SPECTROMETRY</scope>
+<source>
+<strain>ATCC 53773 / GE2270</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="1994" name="J. Antibiot." volume="47" first="1564" last="1567">
+<title>Revised structure of the antibiotic GE 2270A.</title>
+<authorList>
+<person name="Tavecchia P."/>
+<person name="Gentili P."/>
+<person name="Kurz M."/>
+<person name="Sottani C."/>
+<person name="Bonfichi R."/>
+<person name="Lociuro S."/>
+<person name="Selva E."/>
+</authorList>
+<dbReference type="PubMed" id="7844053"/>
+<dbReference type="DOI" id="10.7164/antibiotics.47.1564"/>
+</citation>
+<scope>SEQUENCE REVISION</scope>
+<source>
+<strain>ATCC 53773 / GE2270</strain>
+</source>
+</reference>
+<reference key="7">
+<citation type="journal article" date="1995" name="J. Antibiot." volume="48" first="1039" last="1042">
+<title>Components of the GE2270 complex produced by Planobispora rosea ATCC 53773.</title>
+<authorList>
+<person name="Selva E."/>
+<person name="Ferrari P."/>
+<person name="Kurz M."/>
+<person name="Tavecchia P."/>
+<person name="Colombo L."/>
+<person name="Stella S."/>
+<person name="Restelli E."/>
+<person name="Goldstein B.P."/>
+<person name="Ripamonti F."/>
+<person name="Denaro M."/>
+</authorList>
+<dbReference type="PubMed" id="7592050"/>
+<dbReference type="DOI" id="10.7164/antibiotics.48.1039"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>METHYLATION AT ASN-3</scope>
+<source>
+<strain>ATCC 53773 / GE2270</strain>
+</source>
+</reference>
+<reference key="8">
+<citation type="journal article" date="2000" name="Biochemistry" volume="39" first="37" last="45">
+<title>Structure of an EF-Tu complex with a thiazolyl peptide antibiotic determined at 2.35 A resolution: atomic basis for GE2270A inhibition of EF-Tu.</title>
+<authorList>
+<person name="Heffron S.E."/>
+<person name="Jurnak F."/>
+</authorList>
+<dbReference type="PubMed" id="10625477"/>
+<dbReference type="DOI" id="10.1021/bi9913597"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (2.35 ANGSTROMS) IN COMPLEX WITH EF-TU</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="2006" name="Biochemistry" volume="45" first="6846" last="6857">
+<title>Structural basis of the action of pulvomycin and GE2270 A on elongation factor Tu.</title>
+<authorList>
+<person name="Parmeggiani A."/>
+<person name="Krab I.M."/>
+<person name="Okamura S."/>
+<person name="Nielsen R.C."/>
+<person name="Nyborg J."/>
+<person name="Nissen P."/>
+</authorList>
+<dbReference type="PubMed" id="16734421"/>
+<dbReference type="DOI" id="10.1021/bi0525122"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.4 ANGSTROMS) IN COMPLEX WITH EF-TU</scope>
+</reference>
+<comment type="function">
+<text>Has bacteriocidal activity against Gram-positive bacteria and a few Gram-negative bacteria. It is particularly active against anaerobes. Inhibits bacterial protein biosynthesis by preventing the formation of a stable complex between the elongation factor Tu (EF-Tu), GTP and tRNA, hindering the activation of EF-Tu.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text>Maturation of thiazole and oxazole containing antibiotics involves the enzymatic condensation of a Cys, Ser or Thr with the alpha-carbonyl of the preceding amino acid to form a thioether or ether bond, then dehydration to form a double bond with the alpha-amino nitrogen. Thiazoline or oxazoline ring are dehydrogenated to form thiazole or oxazole rings.</text>
+</comment>
+<comment type="PTM">
+<text>Maturation of pyridinyl containing antibiotics involves the cross-linking of a Ser and a Cys-Ser pair usually separated by 7 or 8 residues along the peptide chain. The Ser residues are dehydrated to didehydroalanines, then bonded between their beta carbons. The alpha carbonyl of the Cys condenses with alpha carbon of the first Ser to form a pyridinyl ring. The ring may be multiply dehydrogenated to form a pyridine ring with loss of the amino nitrogen of the first Ser.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">The amidation of Pro-14 probably does not occur by the same mechanism, oxidative cleavage of glycine, as in eukaryotes.</text>
+</comment>
+<comment type="PTM">
+<text>Several isomers, GE2270 A (GEA), B1, B2, C1, C2a, C2b, D1, D2, E and T, are produced. The structural differences between them lie in the extent of the modifications, methylation, methoxylation, and oxidation of the thiazole and oxazole rings, and methylation of asparagine. They are shown in PubMed:7592050. The modifications of form GE2270 A are shown here.</text>
+</comment>
+<comment type="mass spectrometry" mass="1290.6" method="FAB" error="0.3" evidence="2"/>
+<comment type="miscellaneous">
+<text>Strain ATCC 23866 also produces this antibiotic.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the thiocillin family.</text>
+</comment>
+<dbReference type="PIR" id="A61210">
+<property type="entry name" value="A61210"/>
+</dbReference>
+<dbReference type="PDB" id="1D8T">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.35"/>
+<property type="chains" value="C/D=1-14"/>
+</dbReference>
+<dbReference type="PDB" id="2C77">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.60"/>
+<property type="chains" value="B=1-14"/>
+</dbReference>
+<dbReference type="PDB" id="3U2Q">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.70"/>
+<property type="chains" value="B=1-10"/>
+</dbReference>
+<dbReference type="PDB" id="3U6B">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.12"/>
+<property type="chains" value="C/D=1-10"/>
+</dbReference>
+<dbReference type="PDB" id="3U6K">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="2.45"/>
+<property type="chains" value="C/D=1-10"/>
+</dbReference>
+<dbReference type="PDBsum" id="1D8T"/>
+<dbReference type="PDBsum" id="2C77"/>
+<dbReference type="PDBsum" id="3U2Q"/>
+<dbReference type="PDBsum" id="3U6B"/>
+<dbReference type="PDBsum" id="3U6K"/>
+<dbReference type="SMR" id="Q7M0J8"/>
+<dbReference type="iPTMnet" id="Q7M0J8"/>
+<dbReference type="EvolutionaryTrace" id="Q7M0J8"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019835">
+<property type="term" value="P:cytolysis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0027">Amidation</keyword>
+<keyword id="KW-0044">Antibiotic</keyword>
+<keyword id="KW-0929">Antimicrobial</keyword>
+<keyword id="KW-0078">Bacteriocin</keyword>
+<keyword id="KW-0379">Hydroxylation</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0883">Thioether bond</keyword>
+<feature type="peptide" description="Thiocillin GE2270" id="PRO_0000363169">
+<location>
+<begin position="1"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Cys-rich">
+<location>
+<begin position="2"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="modified residue" description="N4-methylasparagine" evidence="5">
+<location>
+<position position="3"/>
+</location>
+</feature>
+<feature type="modified residue" description="3-hydroxyphenylalanine" evidence="1">
+<location>
+<position position="8"/>
+</location>
+</feature>
+<feature type="modified residue" description="Proline amide" evidence="2">
+<location>
+<position position="14"/>
+</location>
+</feature>
+<feature type="cross-link" description="Pyridine-2,5-dicarboxylic acid (Ser-Ser) (with C-10)">
+<location>
+<begin position="1"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="cross-link" description="Pyridine-2,5-dicarboxylic acid (Ser-Cys) (with S-11)">
+<location>
+<begin position="1"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Ser-Cys)">
+<location>
+<begin position="1"/>
+<end position="2"/>
+</location>
+</feature>
+<feature type="cross-link" description="5-methylthiazole-4-carboxylic acid (Asn-Cys)">
+<location>
+<begin position="3"/>
+<end position="4"/>
+</location>
+</feature>
+<feature type="cross-link" description="5-(methoxymethyl)thiazole-4-carboxylic acid (Val-Cys)">
+<location>
+<begin position="5"/>
+<end position="6"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Phe-Cys)">
+<location>
+<begin position="8"/>
+<end position="9"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Cys-Cys)">
+<location>
+<begin position="9"/>
+<end position="10"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Ser-Cys)">
+<location>
+<begin position="11"/>
+<end position="12"/>
+</location>
+</feature>
+<feature type="cross-link" description="Oxazoline-4-carboxylic acid (Cys-Ser)">
+<location>
+<begin position="12"/>
+<end position="13"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1880060"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="1908853"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="7592050"/>
+</source>
+</evidence>
+<sequence length="14" mass="1413" checksum="3EB862761A7766C8" modified="2009-02-10" version="2">SCNCVCGFCCSCSP</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,15 @@
+
+========================[ Oct 31, 2017  5:34 PM ]========================
+ERROR: [000.000] No database name was specified
+
+========================[ Oct 31, 2017  5:38 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "bacteria.fasta"
+Formatted 333272 sequences in volume 0
+SUCCESS: formatted database bacteria.fasta
+
+========================[ Oct 31, 2017  5:38 PM ]========================
+Version 2.2.26 [Sep-21-2011]
+Started database file "archea.fasta"
+Formatted 19472 sequences in volume 0
+SUCCESS: formatted database archea.fasta

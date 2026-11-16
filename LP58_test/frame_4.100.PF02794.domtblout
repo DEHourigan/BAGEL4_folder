@@ -1,0 +1,13 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      ./db_hmm/PF02794.hmm
+# Target file:     LP58_test/frame_4.100.six_frames.fna
+# Option settings: /data/users/david/bagel4/tools/hmmsearch/binaries/hmmsearch --domtblout LP58_test/frame_4.100.PF02794.domtblout --noali --domT 25 --cpu 10 ./db_hmm/PF02794.hmm LP58_test/frame_4.100.six_frames.fna 
+# Current dir:     /data/users/david/bagel4
+# Date:            Tue Oct  6 12:52:26 2020
+# [ok]

@@ -1,0 +1,332 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2007-10-02" modified="2020-06-17" version="55">
+<accession>Q9KWM4</accession>
+<name>LANNA_STAWA</name>
+<protein>
+<recommendedName>
+<fullName>Lantibiotic nukacin</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Bacteriocin ISK-1</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">nukA</name>
+</gene>
+<organism>
+<name type="scientific">Staphylococcus warneri</name>
+<dbReference type="NCBI Taxonomy" id="1292"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Staphylococcaceae</taxon>
+<taxon>Staphylococcus</taxon>
+</lineage>
+</organism>
+<geneLocation type="plasmid">
+<name>pPI-1</name>
+</geneLocation>
+<reference key="1">
+<citation type="journal article" date="2000" name="Biosci. Biotechnol. Biochem." volume="64" first="2420" last="2428">
+<title>A novel lantibiotic, nukacin ISK-1, of Staphylococcus warneri ISK-1: cloning of the structural gene and identification of the structure.</title>
+<authorList>
+<person name="Sashihara T."/>
+<person name="Kimura H."/>
+<person name="Higuchi T."/>
+<person name="Adachi A."/>
+<person name="Matsusaki H."/>
+<person name="Sonomoto K."/>
+<person name="Ishizaki A."/>
+</authorList>
+<dbReference type="PubMed" id="11193411"/>
+<dbReference type="DOI" id="10.1271/bbb.64.2420"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>PROTEIN SEQUENCE OF 31-57</scope>
+<scope>DEHYDRATION AT THR-54</scope>
+<scope>LANTHIONINE CROSS-LINKS</scope>
+<source>
+<strain>ISK-1</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2004" name="Biosci. Biotechnol. Biochem." volume="68" first="1663" last="1671">
+<title>Characterization of a gene cluster of Staphylococcus warneri ISK-1 encoding the biosynthesis of and immunity to the lantibiotic, nukacin ISK-1.</title>
+<authorList>
+<person name="Aso Y."/>
+<person name="Sashihara T."/>
+<person name="Nagao J."/>
+<person name="Kanemasa Y."/>
+<person name="Koga H."/>
+<person name="Hashimoto T."/>
+<person name="Higuchi T."/>
+<person name="Adachi A."/>
+<person name="Nomiyama H."/>
+<person name="Ishizaki A."/>
+<person name="Nakayama J."/>
+<person name="Sonomoto K."/>
+</authorList>
+<dbReference type="PubMed" id="15322349"/>
+<dbReference type="DOI" id="10.1271/bbb.68.1663"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>ISK-1</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="2005" name="Plasmid" volume="53" first="164" last="178">
+<title>Description of complete DNA sequence of two plasmids from the nukacin ISK-1 producer, Staphylococcus warneri ISK-1.</title>
+<authorList>
+<person name="Aso Y."/>
+<person name="Koga H."/>
+<person name="Sashihara T."/>
+<person name="Nagao J."/>
+<person name="Kanemasa Y."/>
+<person name="Nakayama J."/>
+<person name="Sonomoto K."/>
+</authorList>
+<dbReference type="PubMed" id="15737403"/>
+<dbReference type="DOI" id="10.1016/j.plasmid.2004.08.003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<source>
+<strain>ISK-1</strain>
+</source>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1998" name="Biosci. Biotechnol. Biochem." volume="62" first="2341" last="2345">
+<title>Purification and partial identification of bacteriocin ISK-1, a new lantibiotic produced by Pediococcus sp. ISK-1.</title>
+<authorList>
+<person name="Kimura H."/>
+<person name="Matsusaki H."/>
+<person name="Sashihara T."/>
+<person name="Sonomoto K."/>
+<person name="Ishizaki A."/>
+</authorList>
+</citation>
+<scope>PROTEIN SEQUENCE OF 31-37</scope>
+<scope>AMINO-ACID COMPOSITION</scope>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>IDENTIFICATION BY MASS SPECTROMETRY</scope>
+<source>
+<strain>ISK-1</strain>
+</source>
+</reference>
+<reference key="5">
+<citation type="journal article" date="2004" name="J. Biosci. Bioeng." volume="98" first="429" last="436">
+<title>Heterologous expression and functional analysis of the gene cluster for the biosynthesis of and immunity to the lantibiotic, nukacin ISK-1.</title>
+<authorList>
+<person name="Aso Y."/>
+<person name="Nagao J."/>
+<person name="Koga H."/>
+<person name="Okuda K."/>
+<person name="Kanemasa Y."/>
+<person name="Sashihara T."/>
+<person name="Nakayama J."/>
+<person name="Sonomoto K."/>
+</authorList>
+<dbReference type="PubMed" id="16233732"/>
+<dbReference type="DOI" id="10.1263/jbb.98.429"/>
+</citation>
+<scope>FUNCTION</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<scope>MASS SPECTROMETRY</scope>
+<source>
+<strain>ISK-1</strain>
+</source>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2006" name="Appl. Environ. Microbiol." volume="72" first="6012" last="6017">
+<title>Lysine-oriented charges trigger the membrane binding and activity of nukacin ISK-1.</title>
+<authorList>
+<person name="Asaduzzaman S.M."/>
+<person name="Nagao J."/>
+<person name="Aso Y."/>
+<person name="Nakayama J."/>
+<person name="Sonomoto K."/>
+</authorList>
+<dbReference type="PubMed" id="16957223"/>
+<dbReference type="DOI" id="10.1128/aem.00678-06"/>
+</citation>
+<scope>FUNCTION</scope>
+<source>
+<strain>ISK-1</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="3 4 5">Lanthionine-containing peptide antibiotic (lantibiotic) active on Gram-positive bacteria, such as Lactobacillus sakei, Leuconostoc mesenteroides and Pediococcus pentosaceus. The bactericidal activity of lantibiotics is based on depolarization of energized bacterial cytoplasmic membranes, initiated by the formation of aqueous transmembrane pores.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="3 5">Secreted</location>
+</subcellularLocation>
+<text>Through the specific ABC transporter NukT.</text>
+</comment>
+<comment type="PTM">
+<text>Maturation of lantibiotics involves the enzymatic conversion of Thr, and Ser into dehydrated AA and the formation of thioether bonds with cysteine. This is followed by membrane translocation and cleavage of the modified precursor.</text>
+</comment>
+<comment type="mass spectrometry" mass="2960.1" method="FAB" evidence="3"/>
+<comment type="similarity">
+<text evidence="6">Belongs to the type A lantibiotic family.</text>
+</comment>
+<comment type="caution">
+<text evidence="6">It is uncertain whether Met-1 or Met-7 is the initiator.</text>
+</comment>
+<dbReference type="EMBL" id="AB034941">
+<property type="protein sequence ID" value="BAA95674.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB121757">
+<property type="protein sequence ID" value="BAC98759.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AB125341">
+<property type="protein sequence ID" value="BAD01007.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="NP_940772.1">
+<property type="nucleotide sequence ID" value="NC_005207.3"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_011152951.1">
+<property type="nucleotide sequence ID" value="NZ_VDOJ01000018.1"/>
+</dbReference>
+<dbReference type="PDB" id="5Z5Q">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=31-57"/>
+</dbReference>
+<dbReference type="PDB" id="5Z5R">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=31-57"/>
+</dbReference>
+<dbReference type="PDBsum" id="5Z5Q"/>
+<dbReference type="PDBsum" id="5Z5R"/>
+<dbReference type="SMR" id="Q9KWM4"/>
+<dbReference type="TCDB" id="1.C.21.1.5">
+<property type="family name" value="the lacticin 481 (lacticin 481) family"/>
+</dbReference>
+<dbReference type="GeneID" id="2648465"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005102">
+<property type="term" value="F:signaling receptor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019835">
+<property type="term" value="P:cytolysis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007682">
+<property type="entry name" value="Lantibiotic_typ-A_Lactobact"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04604">
+<property type="entry name" value="L_biotic_typeA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0044">Antibiotic</keyword>
+<keyword id="KW-0929">Antimicrobial</keyword>
+<keyword id="KW-0078">Bacteriocin</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0425">Lantibiotic</keyword>
+<keyword id="KW-0614">Plasmid</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0883">Thioether bond</keyword>
+<feature type="propeptide" id="PRO_0000307094" evidence="2 5">
+<location>
+<begin position="1"/>
+<end position="30"/>
+</location>
+</feature>
+<feature type="peptide" description="Lantibiotic nukacin" id="PRO_0000307095">
+<location>
+<begin position="31"/>
+<end position="57"/>
+</location>
+</feature>
+<feature type="modified residue" description="2,3-didehydrobutyrine" evidence="7">
+<location>
+<position position="54"/>
+</location>
+</feature>
+<feature type="cross-link" description="Beta-methyllanthionine (Thr-Cys)" evidence="7">
+<location>
+<begin position="39"/>
+<end position="44"/>
+</location>
+</feature>
+<feature type="cross-link" description="Lanthionine (Ser-Cys)" evidence="7">
+<location>
+<begin position="41"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="cross-link" description="Lanthionine (Ser-Cys)" evidence="7">
+<location>
+<begin position="48"/>
+<end position="56"/>
+</location>
+</feature>
+<feature type="strand" evidence="1">
+<location>
+<begin position="36"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="turn" evidence="1">
+<location>
+<begin position="41"/>
+<end position="43"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000244">
+<source>
+<dbReference type="PDB" id="5Z5Q"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="11193411"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16233732"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="16957223"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000269">
+<source ref="4"/>
+</evidence>
+<evidence key="6" type="ECO:0000305"/>
+<evidence key="7" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="11193411"/>
+</source>
+</evidence>
+<sequence length="57" mass="6403" checksum="9BF0046242995426" modified="2000-10-01" version="1" precursor="true">MENSKVMKDIEVANLLEEVQEDELNEVLGAKKKSGVIPTVSHDCHMNSFQFVFTCCS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

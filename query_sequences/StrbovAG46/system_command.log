@@ -1,0 +1,99 @@
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46
+/data/users/david/bagel4/bagel4_AOI_identification_hmm_rules.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_identification_blast_bacteriocins.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -translate true -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_merge.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_AOI_annotation.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -model false -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_promoterprediction.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_transterm.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -dna /data/users/david/bagel4/query_sequences/StrbovAG46/scf7180000000002_quiver_dupTrim=6839.0.AOI.fna
+/data/bagel4/bagel4_promoter_term_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -queryname scf7180000000002_quiver_dupTrim=6839.0
+/data/bagel4/bagel4_GeneTable_2_json.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46 -table scf7180000000002_quiver_dupTrim=6839.0.GeneTables
+/data/bagel4/bagel4_clean_tmpfiles.pl -s /data/users/david/bagel4/query_sequences/StrbovAG46

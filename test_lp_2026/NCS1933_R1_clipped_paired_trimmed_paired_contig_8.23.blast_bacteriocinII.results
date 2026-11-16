@@ -1,0 +1,5 @@
+Query	Subject	percent	align_len	mistmatches	gap	q_start	q_end	s_start	s_end	evalue	bit_score
+170.2;Plantaricin_E	frame_4	100.000	56	0	0	1	56	38599	38654	4.52e-35	119
+171.2;Plantaricin_F	frame_4	100.000	52	0	0	1	52	38664	38715	1.76e-33	114
+172.2;Plantaricin_J	frame_5	94.231	52	3	0	1	52	41052	41103	3.99e-31	108
+174.2;Plantaricin_N	frame_3	100.000	55	0	0	1	55	47316	47370	2.93e-35	120

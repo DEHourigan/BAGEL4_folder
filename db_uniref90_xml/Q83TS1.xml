@@ -1,0 +1,798 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2003-06-01" modified="2020-06-17" version="66">
+<accession>Q83TS1</accession>
+<name>Q83TS1_ECOLX</name>
+<protein>
+<submittedName>
+<fullName evidence="5">Colicin-V (Microcin-V bacteriocin)</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="2">McmA protein</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="14">Microcin McmA</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">mcmA</name>
+<name type="ORF" evidence="21">AWF59_024050</name>
+<name type="ORF" evidence="23">BON94_14120</name>
+<name type="ORF" evidence="25">DJ487_24300</name>
+<name type="ORF" evidence="7">DL326_24105</name>
+<name type="ORF" evidence="5">DLU67_21725</name>
+<name type="ORF" evidence="6">DLY41_16815</name>
+<name type="ORF" evidence="8">DN808_27950</name>
+<name type="ORF" evidence="9">DP265_23480</name>
+<name type="ORF" evidence="13">DP277_17980</name>
+<name type="ORF" evidence="10">DQF72_21670</name>
+<name type="ORF" evidence="19">DS966_24605</name>
+<name type="ORF" evidence="20">DW236_23915</name>
+<name type="ORF" evidence="11">EA198_23320</name>
+<name type="ORF" evidence="12">EA245_24405</name>
+<name type="ORF" evidence="24">ELT33_22360</name>
+<name type="ORF" evidence="22">EWK56_12590</name>
+<name type="ORF" evidence="14">FVB16_03305</name>
+<name type="ORF" evidence="15">GFU40_23850</name>
+<name type="ORF" evidence="17">GFU45_23340</name>
+<name type="ORF" evidence="16">GFU47_28670</name>
+<name type="ORF" evidence="18">RK56_016410</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Escherichia coli</name>
+<dbReference type="NCBI Taxonomy" id="562"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="2003" name="Microbiology" volume="149" first="2557" last="2570">
+<title>The colicin G, H and X determinants encode microcins M and H47, which might utilize the catecholate siderophore receptors FepA, Cir, Fiu and IroN.</title>
+<authorList>
+<person name="Patzer S.I."/>
+<person name="Baquero M.R."/>
+<person name="Bravo D."/>
+<person name="Moreno F."/>
+<person name="Hantke K."/>
+</authorList>
+<dbReference type="PubMed" id="12949180"/>
+<dbReference type="DOI" id="10.1099/mic.0.26396-0"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">CA46</strain>
+<strain evidence="3">CA58</strain>
+</source>
+</reference>
+<reference key="2" evidence="4">
+<citation type="journal article" date="2004" name="J. Bacteriol." volume="186" first="5432" last="5441">
+<title>Analysis of the genome structure of the nonpathogenic probiotic Escherichia coli strain Nissle 1917.</title>
+<authorList>
+<person name="Grozdanov L."/>
+<person name="Raasch C."/>
+<person name="Schulze J."/>
+<person name="Sonnenborn U."/>
+<person name="Gottschalk G."/>
+<person name="Hacker J."/>
+<person name="Dobrindt U."/>
+</authorList>
+<dbReference type="PubMed" id="15292145"/>
+<dbReference type="DOI" id="10.1128/JB.186.16.5432-5441.2004"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="4">Nissle 1917</strain>
+</source>
+</reference>
+<reference key="3" evidence="26">
+<citation type="submission" date="2016-01" db="EMBL/GenBank/DDBJ databases">
+<title>WGS of SAMN04407783.</title>
+<authorList>
+<person name="Adams M."/>
+<person name="Sutton G."/>
+<person name="Nelson K."/>
+<person name="Thaden J."/>
+<person name="Fowler V."/>
+<person name="Mccorrison J."/>
+<person name="Sanka R."/>
+<person name="Brinkac L."/>
+<person name="Nierman W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="26">GN02766</strain>
+</source>
+</reference>
+<reference key="4" evidence="21">
+<citation type="submission" date="2016-01" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Adams M."/>
+<person name="Sutton G."/>
+<person name="Nelson K."/>
+<person name="Thaden J."/>
+<person name="Fowler V."/>
+<person name="Mccorrison J."/>
+<person name="Sanka R."/>
+<person name="Brinkac L."/>
+<person name="Nierman W."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="21">GN02766</strain>
+</source>
+</reference>
+<reference key="5" evidence="23 32">
+<citation type="submission" date="2017-01" db="EMBL/GenBank/DDBJ databases">
+<title>Whole genome sequencing of CTX-M-14-producing Escherichia coli of animal and human origin: insights into dissemination of blaCTX-M-14.</title>
+<authorList>
+<person name="Gumpert H."/>
+<person name="Hartung Hansen K."/>
+<person name="Bortolaia V."/>
+<person name="Jana B."/>
+<person name="Westh H."/>
+<person name="Agerso Y."/>
+<person name="Guardabassi L."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="23 32">2763-6</strain>
+</source>
+</reference>
+<reference key="6" evidence="18">
+<citation type="submission" date="2017-12" db="EMBL/GenBank/DDBJ databases">
+<title>FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS): Supporting development and validation of Infectious Disease Dx tests.</title>
+<authorList>
+<person name="Case J."/>
+<person name="Tallon L.J."/>
+<person name="Sadzewicz L."/>
+<person name="Sengamalay N."/>
+<person name="Nagaraj S."/>
+<person name="Vavikolanu K."/>
+<person name="Aluvathingal J."/>
+<person name="Nadendla S."/>
+<person name="Hobson J."/>
+<person name="Sichtig H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="18">FDAARGOS_56</strain>
+</source>
+</reference>
+<reference key="7" evidence="27">
+<citation type="submission" date="2017-12" db="EMBL/GenBank/DDBJ databases">
+<title>FDA dAtabase for Regulatory Grade micrObial Sequences (FDA-ARGOS): Supporting development and validation of Infectious Disease Dx tests.</title>
+<authorList>
+<person name="Hoffmann M."/>
+<person name="Allard M."/>
+<person name="Evans P."/>
+<person name="Brown E."/>
+<person name="Tallon L."/>
+<person name="Sadzewicz L."/>
+<person name="Sengamalay N."/>
+<person name="Ott S."/>
+<person name="Godinez A."/>
+<person name="Nagaraj S."/>
+<person name="Vavikolanu K."/>
+<person name="Aluvathingal J."/>
+<person name="Nadendla S."/>
+<person name="Sichtig H."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="27">FDAARGOS_56</strain>
+</source>
+</reference>
+<reference key="8" evidence="25 34">
+<citation type="submission" date="2018-05" db="EMBL/GenBank/DDBJ databases">
+<title>Isolation and genomic analyses of lactose-positive bacteria from faecal samples of preterm neonates.</title>
+<authorList>
+<person name="Chen Y."/>
+<person name="Brook T.C."/>
+<person name="O'Neill I."/>
+<person name="Soe C.Z."/>
+<person name="Hall L.J."/>
+<person name="Hoyles L."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="25 34">P099B P</strain>
+</source>
+</reference>
+<reference key="9" evidence="29 35 37">
+<citation type="submission" date="2018-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Ashton P.M."/>
+<person name="Dallman T."/>
+<person name="Nair S."/>
+<person name="De Pinna E."/>
+<person name="Peters T."/>
+<person name="Grant K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="6 40">318516</strain>
+<strain evidence="13 29">325560</strain>
+<strain evidence="7 36">373237</strain>
+<strain evidence="10 41">379388</strain>
+<strain evidence="8 35">440848</strain>
+<strain evidence="5 39">492536</strain>
+<strain evidence="9 37">493359</strain>
+</source>
+</reference>
+<reference key="10" evidence="19 28">
+<citation type="submission" date="2018-07" db="EMBL/GenBank/DDBJ databases">
+<title>Whole Genome Sequence Analysis of Avian Pathogenic E. coli - An Australian Perspective.</title>
+<authorList>
+<person name="Cummins M.L."/>
+<person name="Reid C.J."/>
+<person name="Roy Chowdhury P."/>
+<person name="Bushell R."/>
+<person name="Esbert N."/>
+<person name="Tivendale K.A."/>
+<person name="Noormohammadi A.H."/>
+<person name="Islam S."/>
+<person name="Marenda M.S."/>
+<person name="Browning G.F."/>
+<person name="Markham P.F."/>
+<person name="Djordjevic S.P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="19 28">AVC251</strain>
+</source>
+</reference>
+<reference key="11" evidence="20 30">
+<citation type="submission" date="2018-08" db="EMBL/GenBank/DDBJ databases">
+<title>A genome reference for cultivated species of the human gut microbiota.</title>
+<authorList>
+<person name="Zou Y."/>
+<person name="Xue W."/>
+<person name="Luo G."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="20 30">AM20-38</strain>
+</source>
+</reference>
+<reference key="12" evidence="11 44 46">
+<citation type="submission" date="2018-10" db="EMBL/GenBank/DDBJ databases">
+<title>Genomic surveillance of multi-drug resistant E. coli causing blood-stream infections.</title>
+<authorList>
+<person name="Hastak P."/>
+<person name="Myers G."/>
+<person name="Djordjevic S."/>
+<person name="Chowdhury P.R."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="12 46">EC147_ST73C</strain>
+<strain evidence="11 44">EC330_ST681C</strain>
+</source>
+</reference>
+<reference key="13" evidence="21 26">
+<citation type="submission" date="2018-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Bethke J.H."/>
+<person name="Davidovich A."/>
+<person name="Cheng L."/>
+<person name="Lopatkin A.J."/>
+<person name="Thaden J.T."/>
+<person name="Fowler V.G.Jr."/>
+<person name="Xiao M."/>
+<person name="You L."/>
+<person name="Singh I."/>
+<person name="Clarke T.H."/>
+<person name="White R."/>
+<person name="Nguyen K."/>
+<person name="Sutton G."/>
+<person name="Fouts D.E."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="21 26">GN02766</strain>
+</source>
+</reference>
+<reference key="14" evidence="24 33">
+<citation type="submission" date="2019-02" db="EMBL/GenBank/DDBJ databases">
+<title>ESBL Survelliance.</title>
+<authorList>
+<person name="Mostafa H."/>
+<person name="Pecora N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="24 33">URMC_145</strain>
+</source>
+</reference>
+<reference key="15" evidence="22 31">
+<citation type="submission" date="2019-02" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Slukin P."/>
+<person name="Fursova N."/>
+<person name="Ermolenko Z."/>
+<person name="Mayskaya N."/>
+<person name="Kislichkina A."/>
+<person name="Mukhina T."/>
+<person name="Sizova A."/>
+<person name="Bogun A."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="22">SCPM-O-B-8431</strain>
+<strain evidence="31">SCPM-O-B-8431(U15)</strain>
+</source>
+</reference>
+<reference key="16" evidence="14 38">
+<citation type="submission" date="2019-08" db="EMBL/GenBank/DDBJ databases">
+<title>Identification of Water Treatment Resistant and Multidrug Resistant Urinary Pathogenic Escherichia coli in Wastewater.</title>
+<authorList>
+<person name="Neumann N."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="14 38">WU2356</strain>
+</source>
+</reference>
+<reference key="17" evidence="42 43 45">
+<citation type="submission" date="2019-10" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Valat C."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="17 42">J19</strain>
+<strain evidence="16 43">V16</strain>
+<strain evidence="15 45">X01</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="AJ515251">
+<property type="protein sequence ID" value="CAD56176.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ515252">
+<property type="protein sequence ID" value="CAD56188.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AJ586887">
+<property type="protein sequence ID" value="CAE55705.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAAAIN010000063">
+<property type="protein sequence ID" value="EAA0632501.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAAALD010000023">
+<property type="protein sequence ID" value="EAA0978141.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAAAMO010000051">
+<property type="protein sequence ID" value="EAA1120127.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAABAU010000317">
+<property type="protein sequence ID" value="EAA2868080.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAABNW010000080">
+<property type="protein sequence ID" value="EAA4578699.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAABQJ010000063">
+<property type="protein sequence ID" value="EAA4879282.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="RDUA01000025">
+<property type="protein sequence ID" value="KAA1919969.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="RDVS01000036">
+<property type="protein sequence ID" value="KAA2167486.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="RUXI01000031">
+<property type="protein sequence ID" value="MLH98043.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="VOTT01000019">
+<property type="protein sequence ID" value="MPU47894.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="WIKG01000034">
+<property type="protein sequence ID" value="MQQ78985.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="WIKH01000306">
+<property type="protein sequence ID" value="MQR37713.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="WIKL01000034">
+<property type="protein sequence ID" value="MQR84170.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="JWSO02000014">
+<property type="protein sequence ID" value="PNO95636.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="QOEN01000034">
+<property type="protein sequence ID" value="RBX66068.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="QRIX01000024">
+<property type="protein sequence ID" value="RHG93100.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="LQVG02000001">
+<property type="protein sequence ID" value="RRO73113.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="SERV01000008">
+<property type="protein sequence ID" value="RYL81716.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="MTYB01000073">
+<property type="protein sequence ID" value="TFA55635.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="RZBP01000017">
+<property type="protein sequence ID" value="TFR26630.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="QFTS01000025">
+<property type="protein sequence ID" value="TYD71512.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001318125.1">
+<property type="nucleotide sequence ID" value="NZ_WOER01000040.1"/>
+</dbReference>
+<dbReference type="TCDB" id="1.C.31.1.3">
+<property type="family name" value="the channel-forming colicin v (colicin v) family"/>
+</dbReference>
+<dbReference type="BioCyc" id="ECOL885275:I14_RS25480-MONOMER"/>
+<dbReference type="BioCyc" id="ECOL885276:I02_RS25480-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_000159295-HMP:HMPREF0358_RS26340-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_000164295-HMP:HMPREF9531_RS26825-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_000488315-HMP:HMPREF1593_RS26245-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_000488475-HMP:HMPREF1603_RS27800-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_000488815-HMP:HMPREF1621_RS26395-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_001693315:G1F03-1815-MONOMER"/>
+<dbReference type="BioCyc" id="GCF_001900395:RG41_RS10950-MONOMER"/>
+<dbReference type="Proteomes" id="UP000059691">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000236496">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000253299">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000277904">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000284643">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000291778">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000297662">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000297883">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000323638">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000362885">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000373361">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000376478">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000392867">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000404647">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000406099">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000406287">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000431301">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000433651">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000433772">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000434235">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000434336">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR020280">
+<property type="entry name" value="MccV"/>
+</dbReference>
+<dbReference type="Pfam" id="PF17508">
+<property type="entry name" value="MccV"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<feature type="region of interest" description="Disordered" evidence="1">
+<location>
+<begin position="1"/>
+<end position="20"/>
+</location>
+</feature>
+<feature type="region of interest" description="Disordered" evidence="1">
+<location>
+<begin position="59"/>
+<end position="92"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="MobiDB-lite"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAD56176.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAD56188.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAE55705.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA0632501.1"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA0978141.1"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA1120127.1"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA2868080.1"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA4578699.1"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA4879282.1"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="KAA1919969.1"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="KAA2167486.1"/>
+</source>
+</evidence>
+<evidence key="13" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MLH98043.1"/>
+</source>
+</evidence>
+<evidence key="14" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MPU47894.1"/>
+</source>
+</evidence>
+<evidence key="15" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MQQ78985.1"/>
+</source>
+</evidence>
+<evidence key="16" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MQR37713.1"/>
+</source>
+</evidence>
+<evidence key="17" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MQR84170.1"/>
+</source>
+</evidence>
+<evidence key="18" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PNO95636.1"/>
+</source>
+</evidence>
+<evidence key="19" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="RBX66068.1"/>
+</source>
+</evidence>
+<evidence key="20" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="RHG93100.1"/>
+</source>
+</evidence>
+<evidence key="21" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="RRO73113.1"/>
+</source>
+</evidence>
+<evidence key="22" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="RYL81716.1"/>
+</source>
+</evidence>
+<evidence key="23" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="TFA55635.1"/>
+</source>
+</evidence>
+<evidence key="24" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="TFR26630.1"/>
+</source>
+</evidence>
+<evidence key="25" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="TYD71512.1"/>
+</source>
+</evidence>
+<evidence key="26" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000059691"/>
+</source>
+</evidence>
+<evidence key="27" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000236496"/>
+</source>
+</evidence>
+<evidence key="28" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000253299"/>
+</source>
+</evidence>
+<evidence key="29" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000277904"/>
+</source>
+</evidence>
+<evidence key="30" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000284643"/>
+</source>
+</evidence>
+<evidence key="31" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000291778"/>
+</source>
+</evidence>
+<evidence key="32" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000297662"/>
+</source>
+</evidence>
+<evidence key="33" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000297883"/>
+</source>
+</evidence>
+<evidence key="34" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000323638"/>
+</source>
+</evidence>
+<evidence key="35" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000362885"/>
+</source>
+</evidence>
+<evidence key="36" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000373361"/>
+</source>
+</evidence>
+<evidence key="37" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000376478"/>
+</source>
+</evidence>
+<evidence key="38" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000392867"/>
+</source>
+</evidence>
+<evidence key="39" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000404647"/>
+</source>
+</evidence>
+<evidence key="40" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000406099"/>
+</source>
+</evidence>
+<evidence key="41" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000406287"/>
+</source>
+</evidence>
+<evidence key="42" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000431301"/>
+</source>
+</evidence>
+<evidence key="43" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000433651"/>
+</source>
+</evidence>
+<evidence key="44" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000433772"/>
+</source>
+</evidence>
+<evidence key="45" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000434235"/>
+</source>
+</evidence>
+<evidence key="46" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000434336"/>
+</source>
+</evidence>
+<sequence length="92" mass="8955" checksum="B624AB37D11BF63B" modified="2003-06-01" version="1">MRKLSENEIKQISGGDGNDGQAELIAIGSLAGTFISPGFGSIAGAYIGDKVHSWATTATVSPSMSPSGIGLSSQFGSGRGTSSASSSAGSGS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

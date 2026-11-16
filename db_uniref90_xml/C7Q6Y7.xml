@@ -1,0 +1,104 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2009-10-13" modified="2020-02-26" version="31">
+<accession>C7Q6Y7</accession>
+<name>C7Q6Y7_CATAD</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Uncharacterized protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="1">Caci_7171</name>
+</gene>
+<organism evidence="1 2">
+<name type="scientific">Catenulispora acidiphila (strain DSM 44928 / NRRL B-24433 / NBRC 102108 / JCM 14897)</name>
+<dbReference type="NCBI Taxonomy" id="479433"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Catenulisporales</taxon>
+<taxon>Catenulisporaceae</taxon>
+<taxon>Catenulispora</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1 2">
+<citation type="journal article" date="2009" name="Stand. Genomic Sci." volume="1" first="119" last="125">
+<title>Complete genome sequence of Catenulispora acidiphila type strain (ID 139908).</title>
+<authorList>
+<person name="Copeland A."/>
+<person name="Lapidus A."/>
+<person name="Glavina Del Rio T."/>
+<person name="Nolan M."/>
+<person name="Lucas S."/>
+<person name="Chen F."/>
+<person name="Tice H."/>
+<person name="Cheng J.F."/>
+<person name="Bruce D."/>
+<person name="Goodwin L."/>
+<person name="Pitluck S."/>
+<person name="Mikhailova N."/>
+<person name="Pati A."/>
+<person name="Ivanova N."/>
+<person name="Mavromatis K."/>
+<person name="Chen A."/>
+<person name="Palaniappan K."/>
+<person name="Chain P."/>
+<person name="Land M."/>
+<person name="Hauser L."/>
+<person name="Chang Y.J."/>
+<person name="Jeffries C.D."/>
+<person name="Chertkov O."/>
+<person name="Brettin T."/>
+<person name="Detter J.C."/>
+<person name="Han C."/>
+<person name="Ali Z."/>
+<person name="Tindall B.J."/>
+<person name="Goker M."/>
+<person name="Bristow J."/>
+<person name="Eisen J.A."/>
+<person name="Markowitz V."/>
+<person name="Hugenholtz P."/>
+<person name="Kyrpides N.C."/>
+<person name="Klenk H.P."/>
+</authorList>
+<dbReference type="PubMed" id="21304647"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="2">DSM 44928 / NRRL B-24433 / NBRC 102108 / JCM 14897</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="CP001700">
+<property type="protein sequence ID" value="ACU76000.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="STRING" id="479433.Caci_7171"/>
+<dbReference type="EnsemblBacteria" id="ACU76000">
+<property type="protein sequence ID" value="ACU76000"/>
+<property type="gene ID" value="Caci_7171"/>
+</dbReference>
+<dbReference type="KEGG" id="cai:Caci_7171"/>
+<dbReference type="HOGENOM" id="CLU_3326172_0_0_11"/>
+<dbReference type="Proteomes" id="UP000000851">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-1185" evidence="2">Reference proteome</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACU76000.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000000851"/>
+</source>
+</evidence>
+<sequence length="38" mass="4011" checksum="648429A4378A5B57" modified="2009-10-13" version="1">MNDVLSLAELVIDDETERGLFGTPSISCGQTSAVSDHC</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

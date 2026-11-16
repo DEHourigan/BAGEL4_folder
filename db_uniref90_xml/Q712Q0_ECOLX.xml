@@ -1,0 +1,303 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2004-07-05" modified="2020-06-17" version="35">
+<accession>Q712Q0</accession>
+<name>Q712Q0_ECOLX</name>
+<protein>
+<submittedName>
+<fullName evidence="2">MchS2 protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="2">mchS2</name>
+<name type="ORF" evidence="3">DQF36_23855</name>
+<name type="ORF" evidence="4">EEP23_24540</name>
+<name type="ORF" evidence="5">GQE34_22970</name>
+<name type="ORF" evidence="6">NCTC9044_00856</name>
+<name type="ORF" evidence="7">NCTC9702_01031</name>
+</gene>
+<organism evidence="2">
+<name type="scientific">Escherichia coli</name>
+<dbReference type="NCBI Taxonomy" id="562"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Proteobacteria</taxon>
+<taxon>Gammaproteobacteria</taxon>
+<taxon>Enterobacterales</taxon>
+<taxon>Enterobacteriaceae</taxon>
+<taxon>Escherichia</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="2">
+<citation type="journal article" date="1998" name="Can. J. Microbiol." volume="44" first="692" last="697">
+<title>Genetic analysis of microcin H47 immunity.</title>
+<authorList>
+<person name="Rodriguez E."/>
+<person name="Lavina M."/>
+</authorList>
+<dbReference type="PubMed" id="9783429"/>
+<dbReference type="DOI" id="10.1139/cjm-44-7-692"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">H47</strain>
+</source>
+</reference>
+<reference key="2" evidence="2">
+<citation type="journal article" date="1999" name="Antimicrob. Agents Chemother." volume="43" first="2176" last="2182">
+<title>The structural gene for microcin H47 encodes a peptide precursor with antibiotic activity.</title>
+<authorList>
+<person name="Rodriguez E."/>
+<person name="Gaggero C."/>
+<person name="Lavina M."/>
+</authorList>
+<dbReference type="PubMed" id="10471561"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">H47</strain>
+</source>
+</reference>
+<reference key="3" evidence="2">
+<citation type="journal article" date="2001" name="Antimicrob. Agents Chemother." volume="45" first="969" last="972">
+<title>The structure, function, and origin of the microcin H47 ATP-binding cassette exporter indicate its relatedness to that of colicin V.</title>
+<authorList>
+<person name="Azpiroz M.F."/>
+<person name="Rodriguez E."/>
+<person name="Lavina M."/>
+</authorList>
+<dbReference type="PubMed" id="11181394"/>
+<dbReference type="DOI" id="10.1128/AAC.45.3.969-972.2001"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">H47</strain>
+</source>
+</reference>
+<reference key="4" evidence="2">
+<citation type="journal article" date="2003" name="Antimicrob. Agents Chemother." volume="47" first="181" last="187">
+<title>The proton channel is the minimal structure of ATP synthase necessary and sufficient for microcin h47 antibiotic action.</title>
+<authorList>
+<person name="Rodriguez E."/>
+<person name="Lavina M."/>
+</authorList>
+<dbReference type="PubMed" id="12499189"/>
+<dbReference type="DOI" id="10.1128/AAC.47.1.181-187.2003"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">H47</strain>
+</source>
+</reference>
+<reference key="5" evidence="2">
+<citation type="journal article" date="2004" name="Antimicrob. Agents Chemother." volume="48" first="1235" last="1241">
+<title>Involvement of enterobactin synthesis pathway in production of microcin H47.</title>
+<authorList>
+<person name="Azpiroz M.F."/>
+<person name="Lavina M."/>
+</authorList>
+<dbReference type="PubMed" id="15047525"/>
+<dbReference type="DOI" id="10.1128/AAC.48.4.1235-1241.2004"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">H47</strain>
+</source>
+</reference>
+<reference key="6" evidence="2">
+<citation type="submission" date="2005-11" db="EMBL/GenBank/DDBJ databases">
+<title>Chromosome-encoded microcins: a comparative analysis.</title>
+<authorList>
+<person name="Poey M.E."/>
+<person name="Azpiroz M.F."/>
+<person name="Lavina M.D."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="2">H47</strain>
+</source>
+</reference>
+<reference key="7" evidence="3 11">
+<citation type="submission" date="2018-06" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<person name="Ashton P.M."/>
+<person name="Dallman T."/>
+<person name="Nair S."/>
+<person name="De Pinna E."/>
+<person name="Peters T."/>
+<person name="Grant K."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="3 11">419110</strain>
+</source>
+</reference>
+<reference key="8" evidence="4 10">
+<citation type="submission" date="2018-11" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="PulseNet: The National Subtyping Network for Foodborne Disease Surveillance"/>
+<person name="Tarr C.L."/>
+<person name="Trees E."/>
+<person name="Katz L.S."/>
+<person name="Carleton-Romer H.A."/>
+<person name="Stroika S."/>
+<person name="Kucerova Z."/>
+<person name="Roache K.F."/>
+<person name="Sabol A.L."/>
+<person name="Besser J."/>
+<person name="Gerner-Smidt P."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="4 10">PNUSAE019721</strain>
+</source>
+</reference>
+<reference key="9" evidence="6 8 9">
+<citation type="submission" date="2018-12" db="EMBL/GenBank/DDBJ databases">
+<authorList>
+<consortium name="Pathogen Informatics"/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="6 8">NCTC9044</strain>
+<strain evidence="7 9">NCTC9702</strain>
+</source>
+</reference>
+<reference key="10" evidence="5 12">
+<citation type="submission" date="2019-12" db="EMBL/GenBank/DDBJ databases">
+<title>Extended-spectrum beta-lactamase-producing Escherichia coli and antibiotic resistance in municipal and hospital waters.</title>
+<authorList>
+<person name="Kutilova I."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="5 12">IM17c</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="AJ009631">
+<property type="protein sequence ID" value="CAG25572.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="AAABPO010000075">
+<property type="protein sequence ID" value="EAA4792213.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="ROIZ01000158">
+<property type="protein sequence ID" value="MGU42024.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="WSWV01000106">
+<property type="protein sequence ID" value="MWF12432.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="LR134238">
+<property type="protein sequence ID" value="VED07495.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="LR134246">
+<property type="protein sequence ID" value="VED33874.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_001403001.1">
+<property type="nucleotide sequence ID" value="NZ_UIJU01000076.1"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000271797">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000277930">
+<property type="component" value="Chromosome 1"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000278742">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000410364">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000431536">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<feature type="region of interest" description="Disordered" evidence="1">
+<location>
+<begin position="58"/>
+<end position="77"/>
+</location>
+</feature>
+<feature type="compositionally biased region" description="Polar" evidence="1">
+<location>
+<begin position="61"/>
+<end position="77"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000256">
+<source>
+<dbReference type="SAM" id="MobiDB-lite"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAG25572.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="EAA4792213.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MGU42024.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="MWF12432.1"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="VED07495.1"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="VED33874.1"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000271797"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000277930"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000278742"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000410364"/>
+</source>
+</evidence>
+<evidence key="12" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000431536"/>
+</source>
+</evidence>
+<sequence length="77" mass="7909" checksum="9330520FD0F0535A" modified="2004-07-05" version="1">MREISDNMLDSVKGGMNLNGLPASTNVIDLRGKDMGTYIDANGACWAPDTPSIIMYPGGSGPSYSMSSSTSSANSGS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,441 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2009-02-10" modified="2020-06-17" version="37">
+<accession>P0C8P8</accession>
+<accession>C4NCM0</accession>
+<name>THCL_STRAJ</name>
+<protein>
+<recommendedName>
+<fullName>Thiostrepton</fullName>
+</recommendedName>
+<alternativeName>
+<fullName>Alaninamide</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Bryamycin</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Gargon</fullName>
+</alternativeName>
+<alternativeName>
+<fullName>Thiactin</fullName>
+</alternativeName>
+</protein>
+<gene>
+<name type="primary">tpdA</name>
+</gene>
+<organism>
+<name type="scientific">Streptomyces azureus</name>
+<dbReference type="NCBI Taxonomy" id="146537"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Streptomycetales</taxon>
+<taxon>Streptomycetaceae</taxon>
+<taxon>Streptomyces</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2009" name="J. Am. Chem. Soc." volume="131" first="5946" last="5955">
+<title>Ribosomally synthesized thiopeptide antibiotics targeting elongation factor Tu.</title>
+<authorList>
+<person name="Morris R.P."/>
+<person name="Leeds J.A."/>
+<person name="Naegeli H.U."/>
+<person name="Oberer L."/>
+<person name="Memmert K."/>
+<person name="Weber E."/>
+<person name="LaMarche M.J."/>
+<person name="Parker C.N."/>
+<person name="Burrer N."/>
+<person name="Esterow S."/>
+<person name="Hein A.E."/>
+<person name="Schmitt E.K."/>
+<person name="Krastel P."/>
+</authorList>
+<dbReference type="PubMed" id="19338336"/>
+<dbReference type="DOI" id="10.1021/ja900488a"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [GENOMIC DNA]</scope>
+<scope>HYDROXYLATION AT ILE-65</scope>
+<source>
+<strain>ATCC 14921 / DSM 40106 / CBS 467.68 / ETH 28555 / JCM 4564 / NBRC 12744 / NRRL B-2655 / VKM Ac-719</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="1955" name="Antibiot. Annu." volume="3" first="554" last="559">
+<title>Thiostrepton, a new antibiotic. I. In vitro studies.</title>
+<authorList>
+<person name="Donovick R."/>
+<person name="Pagano J.F."/>
+<person name="Stout H.A."/>
+<person name="Weinstein M.J."/>
+</authorList>
+<dbReference type="PubMed" id="13355325"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1955" name="Antibiot. Annu." volume="3" first="560" last="561">
+<title>Thiostrepton, a new antibiotic. II. Isolation and chemical characterization.</title>
+<authorList>
+<person name="Dutcher J.D."/>
+<person name="Vandeputte J."/>
+</authorList>
+<dbReference type="PubMed" id="13355326"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="4">
+<citation type="journal article" date="1955" name="Antibiot. Annu." volume="3" first="562" last="565">
+<title>Thiostrepton, a new antibiotic. III. In vivo studies.</title>
+<authorList>
+<person name="Jambor W.P."/>
+<person name="Steinberg B.A."/>
+<person name="Suydam L.O."/>
+</authorList>
+<dbReference type="PubMed" id="13355327"/>
+</citation>
+<scope>CHARACTERIZATION</scope>
+</reference>
+<reference key="5">
+<citation type="journal article" date="1996" name="Bioorg. Med. Chem." volume="4" first="1135" last="1147">
+<title>Studies on the biosynthesis of thiostrepton: 4-(1-hydroxyethyl)quinoline-2-carboxylate as a free intermediate on the pathway to the quinaldic acid moiety.</title>
+<authorList>
+<person name="Priestley N.D."/>
+<person name="Smith T.M."/>
+<person name="Shipley P.R."/>
+<person name="Floss H.G."/>
+</authorList>
+<dbReference type="PubMed" id="8831986"/>
+<dbReference type="DOI" id="10.1016/0968-0896(96)00126-5"/>
+</citation>
+<scope>BIOSYNTHESIS OF THE QUINOLINE MOIETY</scope>
+</reference>
+<reference key="6">
+<citation type="journal article" date="2005" name="J. Am. Chem. Soc." volume="127" first="11159" last="11175">
+<title>Total synthesis of thiostrepton. Retrosynthetic analysis and construction of key building blocks.</title>
+<authorList>
+<person name="Nicolaou K.C."/>
+<person name="Safina B.S."/>
+<person name="Zak M."/>
+<person name="Lee S.H."/>
+<person name="Nevalainen M."/>
+<person name="Bella M."/>
+<person name="Estrada A.A."/>
+<person name="Funke C."/>
+<person name="Zecri F.J."/>
+<person name="Bulat S."/>
+</authorList>
+<dbReference type="PubMed" id="16076224"/>
+<dbReference type="DOI" id="10.1021/ja0529337"/>
+</citation>
+<scope>STRUCTURE VERIFICATION BY CHEMICAL SYNTHESIS</scope>
+</reference>
+<reference key="7">
+<citation type="journal article" date="2005" name="J. Am. Chem. Soc." volume="127" first="11176" last="11183">
+<title>Total synthesis of thiostrepton. Assembly of key building blocks and completion of the synthesis.</title>
+<authorList>
+<person name="Nicolaou K.C."/>
+<person name="Zak M."/>
+<person name="Safina B.S."/>
+<person name="Estrada A.A."/>
+<person name="Lee S.H."/>
+<person name="Nevalainen M."/>
+</authorList>
+<dbReference type="PubMed" id="16076225"/>
+<dbReference type="DOI" id="10.1021/ja052934z"/>
+</citation>
+<scope>STRUCTURE VERIFICATION BY CHEMICAL SYNTHESIS</scope>
+</reference>
+<reference key="8">
+<citation type="journal article" date="1983" name="J. Antibiot." volume="36" first="799" last="813">
+<title>The solution conformation of the peptide antibiotic thiostrepton: a 1H NMR study.</title>
+<authorList>
+<person name="Hensens O.D."/>
+<person name="Albers-Schonberg G."/>
+<person name="Anderson B.F."/>
+</authorList>
+<dbReference type="PubMed" id="6885635"/>
+<dbReference type="DOI" id="10.7164/antibiotics.36.799"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 56-72</scope>
+<scope>AMIDATION AT SER-72</scope>
+<scope>DEHYDRATION AT SER-58; THR-63; SER-71 AND SER-72</scope>
+</reference>
+<reference key="9">
+<citation type="journal article" date="1983" name="J. Antibiot." volume="36" first="832" last="845">
+<title>13C NMR study of thiostrepton and thiopeptin components.</title>
+<authorList>
+<person name="Hensens O.D."/>
+<person name="Albers-Schonberg G."/>
+</authorList>
+<dbReference type="PubMed" id="6885637"/>
+<dbReference type="DOI" id="10.7164/antibiotics.36.832"/>
+</citation>
+<scope>STRUCTURE BY NMR OF 56-72</scope>
+</reference>
+<reference key="10">
+<citation type="journal article" date="2001" name="Acta Crystallogr. D" volume="57" first="755" last="758">
+<title>Structure of the macrocycle thiostrepton solved using the anomalous dispersion contribution of sulfur.</title>
+<authorList>
+<person name="Bond C.S."/>
+<person name="Shaw M.P."/>
+<person name="Alphey M.S."/>
+<person name="Hunter W.N."/>
+</authorList>
+<dbReference type="PubMed" id="11320328"/>
+<dbReference type="DOI" id="10.1107/s0907444901003134"/>
+</citation>
+<scope>X-RAY CRYSTALLOGRAPHY (1.02 ANGSTROMS) OF 56-72</scope>
+</reference>
+<comment type="function">
+<text evidence="1">Has bacteriocidal activity. Inhibits bacterial protein biosynthesis by acting on the elongation factor Tu (EF-Tu) (By similarity).</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="1">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text>Maturation of thiazole and oxazole containing antibiotics involves the enzymatic condensation of a Cys, Ser or Thr with the alpha-carbonyl of the preceding amino acid to form a thioether or ether bond, then dehydration to form a double bond with the alpha-amino nitrogen. Thiazoline or oxazoline ring are dehydrogenated to form thiazole or oxazole rings.</text>
+</comment>
+<comment type="PTM">
+<text>Maturation of pyridinyl containing antibiotics involves the cross-linking of a Ser and a Cys-Ser pair usually separated by 7 or 8 residues along the peptide chain. The Ser residues are dehydrated to didehydroalanines, then bonded between their beta carbons. The alpha carbonyl of the Cys condenses with alpha carbon of the first Ser to form a pyridinyl ring. The ring may be multiply dehydrogenated to form a pyridine ring with loss of the amino nitrogen of the first Ser.</text>
+</comment>
+<comment type="PTM">
+<text evidence="4">The amidation of Ser-72 probably does not occur by the same mechanism, oxidative cleavage of glycine, as in eukaryotes.</text>
+</comment>
+<comment type="PTM">
+<text>The structure of the 2,3-didehydrobutyrin is shown to be Z-isomer (PubMed:6885635 and PubMed:11320328).</text>
+</comment>
+<comment type="pharmaceutical">
+<text>Available under the names Animax (Dechra) and Panolog (Fort Dodge), that combine thiostrepton with nystatin (antifungal), neomycin (antibiotic) and triamcinolone (corticosteroid). Used to treat cat and dog skin and ear disorders caused by allergies, or bacterial as well as yeast infections. It is also used for infections of the anal gland and interdigital cysts.</text>
+</comment>
+<comment type="similarity">
+<text evidence="4">Belongs to the thiocillin family.</text>
+</comment>
+<comment type="caution">
+<text evidence="4">Thiostrepton is produced by Streptomyces azureus ATCC 14921, S.hawaiiensis ATCC 12236, and by S.laurentii ATCC 31255. The species used as a thiostrepton producer in all studies is uncertain.</text>
+</comment>
+<comment type="caution">
+<text evidence="4">It is uncertain whether Met-1 or Met-13 is the initiator.</text>
+</comment>
+<comment type="online information" name="Wikipedia">
+<link uri="https://en.wikipedia.org/wiki/Thiostrepton"/>
+<text>Thiostrepton entry</text>
+</comment>
+<comment type="online information" name="Fermentek Biotechnologies">
+<link uri="https://www.fermentek.com/product/thiostrepton"/>
+<text>Thiostrepton notice</text>
+</comment>
+<comment type="online information" name="Merck Millipore">
+<link uri="https://www.merckmillipore.com/CH/en/product/Thiostrepton-CAS-1393-48-2-Calbiochem,EMD_BIO-598226"/>
+<text>Thiostrepton notice</text>
+</comment>
+<dbReference type="EMBL" id="FJ494914">
+<property type="protein sequence ID" value="ACR15111.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PDB" id="1E9W">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="1.02"/>
+<property type="chains" value="A=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="1OLN">
+<property type="method" value="Other"/>
+<property type="chains" value="B=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="2JQ7">
+<property type="method" value="NMR"/>
+<property type="chains" value="C=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="2L2W">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="2L2X">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=56-71"/>
+</dbReference>
+<dbReference type="PDB" id="2L2Y">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=56-71"/>
+</dbReference>
+<dbReference type="PDB" id="2L2Z">
+<property type="method" value="NMR"/>
+<property type="chains" value="A=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="3CF5">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="3.30"/>
+<property type="chains" value="5=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="4HP2">
+<property type="method" value="X-ray"/>
+<property type="resolution" value="0.64"/>
+<property type="chains" value="A/B=56-72"/>
+</dbReference>
+<dbReference type="PDB" id="6MXF">
+<property type="method" value="EM"/>
+<property type="resolution" value="1.91"/>
+<property type="chains" value="A=56-72"/>
+</dbReference>
+<dbReference type="PDBsum" id="1E9W"/>
+<dbReference type="PDBsum" id="1OLN"/>
+<dbReference type="PDBsum" id="2JQ7"/>
+<dbReference type="PDBsum" id="2L2W"/>
+<dbReference type="PDBsum" id="2L2X"/>
+<dbReference type="PDBsum" id="2L2Y"/>
+<dbReference type="PDBsum" id="2L2Z"/>
+<dbReference type="PDBsum" id="3CF5"/>
+<dbReference type="PDBsum" id="4HP2"/>
+<dbReference type="PDBsum" id="6MXF"/>
+<dbReference type="SMR" id="P0C8P8"/>
+<dbReference type="DrugBank" id="DB02940">
+<property type="generic name" value="(4s)-2-[(1e)-1-Aminoprop-1-Enyl]-4,5-Dihydro-1,3-Thiazole-4-Carboxylic Acid"/>
+</dbReference>
+<dbReference type="DrugBank" id="DB02566">
+<property type="generic name" value="8-Hydroxy-4-(1-Hydroxyethyl)Quinoline-2-Carboxylic Acid"/>
+</dbReference>
+<dbReference type="EvolutionaryTrace" id="P0C8P8"/>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR023895">
+<property type="entry name" value="Thiopep_bacteriocin_prcur"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03892">
+<property type="entry name" value="thiopep_precurs"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0002">3D-structure</keyword>
+<keyword id="KW-0027">Amidation</keyword>
+<keyword id="KW-0044">Antibiotic</keyword>
+<keyword id="KW-0929">Antimicrobial</keyword>
+<keyword id="KW-0379">Hydroxylation</keyword>
+<keyword id="KW-0488">Methylation</keyword>
+<keyword id="KW-0582">Pharmaceutical</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0883">Thioether bond</keyword>
+<feature type="propeptide" id="PRO_0000414718">
+<location>
+<begin position="1"/>
+<end position="55"/>
+</location>
+</feature>
+<feature type="peptide" description="Thiostrepton" id="PRO_0000363170">
+<location>
+<begin position="56"/>
+<end position="72"/>
+</location>
+</feature>
+<feature type="binding site" description="4-(1-hydroxyethyl)-7,8-dihydroquinolin-8-ol (covalent; via 2 links)">
+<location>
+<position position="56"/>
+</location>
+</feature>
+<feature type="binding site" description="4-(1-hydroxyethyl)-7,8-dihydroquinolin-8-ol (covalent; via 2 links)">
+<location>
+<position position="67"/>
+</location>
+</feature>
+<feature type="modified residue" description="2,3-didehydroalanine (Ser)" evidence="3">
+<location>
+<position position="58"/>
+</location>
+</feature>
+<feature type="modified residue" description="(Z)-2,3-didehydrobutyrine" evidence="3">
+<location>
+<position position="63"/>
+</location>
+</feature>
+<feature type="modified residue" description="(3S,4R)-3,4-dihydroxyisoleucine" evidence="2">
+<location>
+<position position="65"/>
+</location>
+</feature>
+<feature type="modified residue" description="2,3-didehydroalanine (Ser)" evidence="3">
+<location>
+<position position="71"/>
+</location>
+</feature>
+<feature type="modified residue" description="2,3-didehydroalanine (Ser)" evidence="3">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="modified residue" description="Serine amide" evidence="3">
+<location>
+<position position="72"/>
+</location>
+</feature>
+<feature type="cross-link" description="5-amino-piperideine-2,5-dicarboxylic acid (Ser-Ser) (with C-68)">
+<location>
+<begin position="60"/>
+<end position="69"/>
+</location>
+</feature>
+<feature type="cross-link" description="5-amino-piperideine-2,5-dicarboxylic acid (Ser-Cys) (with S-69)">
+<location>
+<begin position="60"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Ser-Cys)">
+<location>
+<begin position="60"/>
+<end position="61"/>
+</location>
+</feature>
+<feature type="cross-link" description="(4S)-thiazoline-4-carboxylic acid (Thr-Cys)">
+<location>
+<begin position="63"/>
+<end position="64"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Ile-Cys)">
+<location>
+<begin position="65"/>
+<end position="66"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Thr-Cys)">
+<location>
+<begin position="67"/>
+<end position="68"/>
+</location>
+</feature>
+<feature type="cross-link" description="Thiazole-4-carboxylic acid (Ser-Cys)">
+<location>
+<begin position="69"/>
+<end position="70"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000250"/>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="19338336"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="6885635"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000305"/>
+<sequence length="72" mass="7550" checksum="064299CF4257AB5F" modified="2011-12-14" version="2" precursor="true">MDATAIHERWSVMSNASIGQEIGVEGLTGLDVDALEISDYVDETLLDGEDLTVTMIASASCTTCICTCSCSS</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

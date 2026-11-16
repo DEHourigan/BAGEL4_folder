@@ -1,0 +1,196 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="1994-06-01" modified="2020-06-17" version="46">
+<accession>P36502</accession>
+<name>DURB_STRGW</name>
+<protein>
+<recommendedName>
+<fullName>Lantibiotic duramycin B</fullName>
+</recommendedName>
+</protein>
+<organism>
+<name type="scientific">Streptomyces sp. (strain R2075)</name>
+<name type="synonym">Streptoverticillium sp. (strain R2075)</name>
+<dbReference type="NCBI Taxonomy" id="35759"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Streptomycetales</taxon>
+<taxon>Streptomycetaceae</taxon>
+<taxon>Streptomyces</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="1990" name="J. Antibiot." volume="43" first="1403" last="1412">
+<title>Duramycins B and C, two new lanthionine containing antibiotics as inhibitors of phospholipase A2. Structural revision of duramycin and cinnamycin.</title>
+<authorList>
+<person name="Fredenhagen A."/>
+<person name="Fendrich G."/>
+<person name="Marki F."/>
+<person name="Marki W."/>
+<person name="Gruner J."/>
+<person name="Raschdorf F."/>
+<person name="Peter H.H."/>
+</authorList>
+<dbReference type="PubMed" id="2125590"/>
+<dbReference type="DOI" id="10.7164/antibiotics.43.1403"/>
+</citation>
+<scope>PROTEIN SEQUENCE</scope>
+<scope>FUNCTION</scope>
+<scope>MASS SPECTROMETRY</scope>
+<scope>CROSS-LINKS</scope>
+<scope>HYDROXYLATION AT ASP-15</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>R2075</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="book" date="1993" name="Peptides 1992" first="519" last="520" publisher="Escom Science Publishers" city="Leiden">
+<title>Solution structure of the lantibiotics duramycin B and C.</title>
+<editorList>
+<person name="Schneider C.H."/>
+<person name="Eberles A.N."/>
+</editorList>
+<authorList>
+<person name="Zimmermann N."/>
+<person name="Freund S."/>
+<person name="Fredenhagen A."/>
+<person name="Jung G."/>
+</authorList>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<source>
+<strain>R2075</strain>
+</source>
+</reference>
+<reference key="3">
+<citation type="journal article" date="1993" name="Eur. J. Biochem." volume="216" first="419" last="428">
+<title>Solution structures of the lantibiotics duramycin B and C.</title>
+<authorList>
+<person name="Zimmermann N."/>
+<person name="Freund S."/>
+<person name="Fredenhagen A."/>
+<person name="Jung G."/>
+</authorList>
+<dbReference type="PubMed" id="8375380"/>
+<dbReference type="DOI" id="10.1111/j.1432-1033.1993.tb18159.x"/>
+</citation>
+<scope>STRUCTURE BY NMR</scope>
+<scope>MASS SPECTROMETRY</scope>
+<scope>CROSS-LINKS</scope>
+<scope>HYDROXYLATION AT ASP-15</scope>
+<scope>CONFIGURATION OF STEREOCENTERS</scope>
+<scope>SUBCELLULAR LOCATION</scope>
+<source>
+<strain>R2075</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1">Is a potent inhibitor of human phospholipase A2. Exhibits only a weak antibacterial activity against B.subtilis, and does not display antimicrobial activity against S.aureus, S.mitis, E.coli, K.pneumoniae, P.vulgaris and C.albicans.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4 5">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text>Maturation of lantibiotics involves the enzymatic conversion of Thr, and Ser into dehydrated AA and the formation of thioether bonds with cysteine or the formation of dialkylamine bonds with lysine. This is followed by membrane translocation and cleavage of the modified precursor.</text>
+</comment>
+<comment type="mass spectrometry" mass="2008" method="FAB" evidence="1"/>
+<comment type="mass spectrometry" mass="2006.7" method="Electrospray" error="0.4" evidence="2"/>
+<comment type="similarity">
+<text evidence="3">Belongs to the type B lantibiotic family.</text>
+</comment>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005102">
+<property type="term" value="F:signaling receptor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019835">
+<property type="term" value="P:cytolysis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0044">Antibiotic</keyword>
+<keyword id="KW-0929">Antimicrobial</keyword>
+<keyword id="KW-0078">Bacteriocin</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-0379">Hydroxylation</keyword>
+<keyword id="KW-0425">Lantibiotic</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0883">Thioether bond</keyword>
+<feature type="peptide" description="Lantibiotic duramycin B" id="PRO_0000043971">
+<location>
+<begin position="1"/>
+<end position="19"/>
+</location>
+</feature>
+<feature type="modified residue" description="(3R)-3-hydroxyaspartate" evidence="1 2">
+<location>
+<position position="15"/>
+</location>
+</feature>
+<feature type="cross-link" description="Beta-methyllanthionine (Cys-Thr)">
+<location>
+<begin position="1"/>
+<end position="18"/>
+</location>
+</feature>
+<feature type="cross-link" description="Lanthionine (Ser-Cys)">
+<location>
+<begin position="4"/>
+<end position="14"/>
+</location>
+</feature>
+<feature type="cross-link" description="Beta-methyllanthionine (Cys-Thr)">
+<location>
+<begin position="5"/>
+<end position="11"/>
+</location>
+</feature>
+<feature type="cross-link" description="Lysinoalanine (Ser-Lys)">
+<location>
+<begin position="6"/>
+<end position="19"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="2125590"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="8375380"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<evidence key="4" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="2125590"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="8375380"/>
+</source>
+</evidence>
+<sequence length="19" mass="2063" checksum="0133445E27362F00" modified="1994-06-01" version="1">CRQSCSFGPLTFVCDGNTK</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

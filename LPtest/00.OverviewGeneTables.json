@@ -1,0 +1,17 @@
+{
+   "SummaryTable" : {
+      "querycount" : "33",
+      "basecount" : "3289375",
+      "AOIcount" : "1",
+      "filecount" : "1"
+   },
+   "ResultsTable" : [
+      {
+         "start" : "120604",
+         "end" : "168116",
+         "AOI" : "<a href=http://bagel4.molgenrug.nl/php/GeneTableSingleGraph.html?sessionID=LPtest&AOI_count=1&queryname=NCS1933_R1_clipped_paired_trimmed_paired_contig_8.16.AOI_01 target=_blank><b>NCS1933_R1_clipped_paired_trimmed_paired_contig_8.16.AOI_01</b></a>",
+         "filename" : "LPtest/LP58_genome.fna",
+         "class" : "174.2;Plantaricin_N"
+      }
+   ]
+}

@@ -1,0 +1,205 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="Swiss-Prot" created="2018-02-28" modified="2020-06-17" version="33">
+<accession>H2A7G5</accession>
+<name>LANA_STRMD</name>
+<protein>
+<recommendedName>
+<fullName evidence="2">Lantibiotic macedovicin</fullName>
+</recommendedName>
+</protein>
+<gene>
+<name type="ordered locus" evidence="5">SMA_1409</name>
+</gene>
+<organism>
+<name type="scientific">Streptococcus macedonicus (strain ACA-DC 198)</name>
+<dbReference type="NCBI Taxonomy" id="1116231"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Lactobacillales</taxon>
+<taxon>Streptococcaceae</taxon>
+<taxon>Streptococcus</taxon>
+</lineage>
+</organism>
+<reference key="1">
+<citation type="journal article" date="2012" name="J. Bacteriol." volume="194" first="1838" last="1839">
+<title>Complete genome sequence of the dairy isolate Streptococcus macedonicus ACA-DC 198.</title>
+<authorList>
+<person name="Papadimitriou K."/>
+<person name="Ferreira S."/>
+<person name="Papandreou N.C."/>
+<person name="Mavrogonatou E."/>
+<person name="Supply P."/>
+<person name="Pot B."/>
+<person name="Tsakalidou E."/>
+</authorList>
+<dbReference type="PubMed" id="22408241"/>
+<dbReference type="DOI" id="10.1128/jb.06804-11"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain>ACA-DC 198</strain>
+</source>
+</reference>
+<reference key="2">
+<citation type="journal article" date="2013" name="Food Microbiol." volume="33" first="124" last="130">
+<title>Macedovicin, the second food-grade lantibiotic produced by Streptococcus macedonicus ACA-DC 198.</title>
+<authorList>
+<person name="Georgalaki M."/>
+<person name="Papadimitriou K."/>
+<person name="Anastasiou R."/>
+<person name="Pot B."/>
+<person name="Van Driessche G."/>
+<person name="Devreese B."/>
+<person name="Tsakalidou E."/>
+</authorList>
+<dbReference type="PubMed" id="23122510"/>
+<dbReference type="DOI" id="10.1016/j.fm.2012.09.008"/>
+</citation>
+<scope>PROTEIN SEQUENCE OF 26-45</scope>
+<scope>FUNCTION</scope>
+<scope>MASS SPECTROMETRY</scope>
+<scope>DEHYDRATION AT THR-33 AND THR-35</scope>
+<scope>LANTHIONINE CROSS-LINKS</scope>
+<source>
+<strain>ACA-DC 198</strain>
+</source>
+</reference>
+<comment type="function">
+<text evidence="1 3">Lanthionine-containing peptide antibiotic (lantibiotic) active on Gram-positive bacteria. Macedovicin inhibits a broad spectrum of lactic acid bacteria, several food spoilage species (e.g. Clostridium spp.) and oral streptococci (PubMed:23122510). The bactericidal activity of lantibiotics is based on depolarization of energized bacterial cytoplasmic membranes, initiated by the formation of aqueous transmembrane pores.</text>
+</comment>
+<comment type="subcellular location">
+<subcellularLocation>
+<location evidence="4">Secreted</location>
+</subcellularLocation>
+</comment>
+<comment type="PTM">
+<text evidence="1 3">Maturation of macedovicin involves the enzymatic dehydration of Thr-33 and Thr-35 into dehydrobutyrine residues, that can form a beta-methyllanthionine bond with Cys-38 and Cys-57, respectively (PubMed:23122510). This is followed by membrane translocation and cleavage of the modified precursor.</text>
+</comment>
+<comment type="mass spectrometry" mass="3428.8" method="MALDI" evidence="1"/>
+<comment type="similarity">
+<text evidence="3">Belongs to the type A lantibiotic family.</text>
+</comment>
+<dbReference type="EMBL" id="HE613569">
+<property type="protein sequence ID" value="CCF02700.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="SMR" id="H2A7G5"/>
+<dbReference type="STRING" id="1116231.SMA_1409"/>
+<dbReference type="EnsemblBacteria" id="CCF02700">
+<property type="protein sequence ID" value="CCF02700"/>
+<property type="gene ID" value="SMA_1409"/>
+</dbReference>
+<dbReference type="KEGG" id="smn:SMA_1409"/>
+<dbReference type="HOGENOM" id="CLU_3022031_0_0_9"/>
+<dbReference type="OMA" id="KTLTKDC"/>
+<dbReference type="BioCyc" id="SMAC1116231:G1H7V-1453-MONOMER"/>
+<dbReference type="Proteomes" id="UP000007152">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005576">
+<property type="term" value="C:extracellular region"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-SubCell"/>
+</dbReference>
+<dbReference type="GO" id="GO:0005102">
+<property type="term" value="F:signaling receptor binding"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0019835">
+<property type="term" value="P:cytolysis"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="GO" id="GO:0042742">
+<property type="term" value="P:defense response to bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="UniProtKB-KW"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR007682">
+<property type="entry name" value="Lantibiotic_typ-A_Lactobact"/>
+</dbReference>
+<dbReference type="Pfam" id="PF04604">
+<property type="entry name" value="L_biotic_typeA"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="evidence at protein level"/>
+<keyword id="KW-0044">Antibiotic</keyword>
+<keyword id="KW-0929">Antimicrobial</keyword>
+<keyword id="KW-0078">Bacteriocin</keyword>
+<keyword id="KW-0903">Direct protein sequencing</keyword>
+<keyword id="KW-1015">Disulfide bond</keyword>
+<keyword id="KW-0425">Lantibiotic</keyword>
+<keyword id="KW-0964">Secreted</keyword>
+<keyword id="KW-0883">Thioether bond</keyword>
+<feature type="propeptide" id="PRO_0000443307" evidence="1">
+<location>
+<begin position="1"/>
+<end position="25"/>
+</location>
+</feature>
+<feature type="chain" description="Lantibiotic macedovicin" id="PRO_0000443308">
+<location>
+<begin position="26"/>
+<end position="58"/>
+</location>
+</feature>
+<feature type="modified residue" description="2,3-didehydrobutyrine" evidence="1">
+<location>
+<position position="33"/>
+</location>
+</feature>
+<feature type="modified residue" description="2,3-didehydrobutyrine" evidence="1">
+<location>
+<position position="35"/>
+</location>
+</feature>
+<feature type="disulfide bond" evidence="1">
+<location>
+<begin position="46"/>
+<end position="54"/>
+</location>
+</feature>
+<feature type="cross-link" description="Beta-methyllanthionine (Thr-Cys)" evidence="1">
+<location>
+<begin position="33"/>
+<end position="38"/>
+</location>
+</feature>
+<feature type="cross-link" description="Beta-methyllanthionine (Thr-Cys)" evidence="1">
+<location>
+<begin position="35"/>
+<end position="57"/>
+</location>
+</feature>
+<evidence key="1" type="ECO:0000269">
+<source>
+<dbReference type="PubMed" id="23122510"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000303">
+<source>
+<dbReference type="PubMed" id="23122510"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000305"/>
+<evidence key="4" type="ECO:0000305">
+<source>
+<dbReference type="PubMed" id="23122510"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000312">
+<source>
+<dbReference type="EMBL" id="CCF02700.1"/>
+</source>
+</evidence>
+<sequence length="58" mass="6250" checksum="8E3555B7069F6C43" modified="2012-03-21" version="1" precursor="true">MMNATENQIFVETVSDQELEMLIGGADRGWIKTLTKDCPNVISSICAGTIITACKNCA</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

@@ -1,0 +1,82 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="1996-11-01" modified="2019-12-11" version="35">
+<accession>Q52053</accession>
+<name>Q52053_9ZZZZ</name>
+<protein>
+<submittedName>
+<fullName evidence="1">ClyLs protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">clyLs</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Plasmid pAD1</name>
+<dbReference type="NCBI Taxonomy" id="2520"/>
+<lineage>
+<taxon>other sequences</taxon>
+<taxon>plasmids</taxon>
+</lineage>
+</organism>
+<geneLocation type="plasmid" evidence="1">
+<name>pAD1</name>
+</geneLocation>
+<reference key="1" evidence="1">
+<citation type="journal article" date="1994" name="J. Bacteriol." volume="176" first="7335" last="7344">
+<title>Genetic structure of the Enterococcus faecalis plasmid pAD1-encoded cytolytic toxin system and its relationship to lantibiotic determinants.</title>
+<authorList>
+<person name="Gilmore M.S."/>
+<person name="Segarra R.A."/>
+<person name="Booth M.C."/>
+<person name="Bogie C.P."/>
+<person name="Hall L.R."/>
+<person name="Clewell D.B."/>
+</authorList>
+<dbReference type="PubMed" id="7961506"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<plasmid evidence="1">pAD1</plasmid>
+</source>
+</reference>
+<dbReference type="EMBL" id="L37110">
+<property type="protein sequence ID" value="AAA62649.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="PIR" id="B55226">
+<property type="entry name" value="B55226"/>
+</dbReference>
+<dbReference type="TCDB" id="1.C.60.1.1">
+<property type="family name" value="the two-component enterococcus faecalis cytolysin (efc) family"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050830">
+<property type="term" value="P:defense response to Gram-positive bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027632">
+<property type="entry name" value="Lant_SP_1948"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16934">
+<property type="entry name" value="Mersacidin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03893">
+<property type="entry name" value="lant_SP_1948"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<keyword id="KW-0614" evidence="1">Plasmid</keyword>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AAA62649.1"/>
+</source>
+</evidence>
+<sequence length="63" mass="6851" checksum="E37724D103BD1A6A" modified="1996-11-01" version="1">MLNKENQENYYSNKLELVGPSFEELSLEEMEAIQGSGDVQAETTPACFTIGLGVGALFSAKFC</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

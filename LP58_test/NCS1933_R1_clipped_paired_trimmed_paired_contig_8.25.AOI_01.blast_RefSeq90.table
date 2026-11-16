@@ -1,0 +1,32 @@
+Query	UniProt	Percent	Evalue	Function	Tax	PFAMS	url
+orf00011	UniRef90_Q0T963	34.783	2.71e-06	tRNA nuclease CdiA	Escherichia		<a href=http://www.uniprot.org/uniprot/UniRef90_Q0T963>UniRef90_Q0T963</a>
+orf00019	UniRef90_P52984	58.247	3.76e-80	Galactoside O-acetyltransferase	Lactococcus		<a href=http://www.uniprot.org/uniprot/UniRef90_P52984>UniRef90_P52984</a>
+orf00020	UniRef90_P0A0J4	23.567	1.51e-05	Quinolone resistance protein NorA	Staphylococcaceae		<a href=http://www.uniprot.org/uniprot/UniRef90_P0A0J4>UniRef90_P0A0J4</a>
+orf00022	UniRef90_P75809	40.530	4.84e-64	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase YbjI	Bacteria		<a href=http://www.uniprot.org/uniprot/UniRef90_P75809>UniRef90_P75809</a>
+orf00025	UniRef90_A9MI63	28.302	2.33e-15	HTH-type transcriptional activator RhaR	Salmonella		<a href=http://www.uniprot.org/uniprot/UniRef90_A9MI63>UniRef90_A9MI63</a>
+orf00026	UniRef90_P0A8Y6	36.900	8.86e-51	Sugar phosphatase YidA n=158 RepID=YIDA_ECOL6	'-'		<a href=http://www.uniprot.org/uniprot/UniRef90_P0A8Y6>UniRef90_P0A8Y6</a>
+orf00028	UniRef90_P54104	41.244	1.75e-84	Branched-chain amino acid transport system carrier protein	Lactobacillus		<a href=http://www.uniprot.org/uniprot/UniRef90_P54104>UniRef90_P54104</a>
+orf00031	UniRef90_P26235	57.333	1.20e-52	Na(+)/H(+) antiporter	Enterococcus		<a href=http://www.uniprot.org/uniprot/UniRef90_P26235>UniRef90_P26235</a>
+orf00032	UniRef90_P26235	48.045	1.46e-56	Na(+)/H(+) antiporter	Enterococcus		<a href=http://www.uniprot.org/uniprot/UniRef90_P26235>UniRef90_P26235</a>
+orf00042	YP_395178.1	32.584	1.29e-21	Putative bacteriocin Immunity protein 	| | 		<a href=http://www.uniprot.org/uniprot/YP_395178.1>YP_395178.1</a>
+orf00047	P71462	98.485	4.70e-41	P71462_LACPL Immunity protein PlnM 	| | 		<a href=http://www.uniprot.org/uniprot/P71462>P71462</a>
+orf00049	P71464_LACPL	99.749	0.0	PlnO 	Lactobacillus plantarum | II | 	PF00535;TIGR04195	<a href=http://www.uniprot.org/uniprot/P71464_LACPL>P71464_LACPL</a>
+orf00050	P71468	30.556	1.22e-07	P71468_LACPL PlnI (Immunity protein PlnI, membrane-bound protease CAAX family) 	| | 		<a href=http://www.uniprot.org/uniprot/P71468>P71468</a>
+orf00053	Q5FLE3_LACAC	25.000	4.74e-16	Bacteriocin production related histidine kinase 	Lactobacillus acidophilus |  | 		<a href=http://www.uniprot.org/uniprot/Q5FLE3_LACAC>Q5FLE3_LACAC</a>
+orf00054	CAA64207.1	97.976	6.68e-180	response regulator PlnD 	Lactobacillus plantarum] |  | 	PF00072	<a href=http://www.uniprot.org/uniprot/CAA64207.1>CAA64207.1</a>
+orf00057	P71468	98.039	4.45e-179	P71468_LACPL PlnI (Immunity protein PlnI, membrane-bound protease CAAX family) 	| | 		<a href=http://www.uniprot.org/uniprot/P71468>P71468</a>
+orf00063	Q88ZC2_LACPL	99.860	0.0	Bacteriocin ABC-transporter, ATP-binding and permease protein PlnG 	Lactobacillus plantarum | | T	PF00005;PF03412	<a href=http://www.uniprot.org/uniprot/Q88ZC2_LACPL>Q88ZC2_LACPL</a>
+orf00064	P71472_LACPL	99.563	0.0	Accessory factor for ABC-transporter PlnH 	Lactobacillus plantarum | | T	PF13437	<a href=http://www.uniprot.org/uniprot/P71472_LACPL>P71472_LACPL</a>
+orf00066	P71473_LACPL	96.491	1.13e-32	PlnS 	Lactobacillus plantarum | II | A		<a href=http://www.uniprot.org/uniprot/P71473_LACPL>P71473_LACPL</a>
+orf00067	UniRef90_O05525	35.780	1.06e-05	Putative membrane peptidase YdiL	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_O05525>UniRef90_O05525</a>
+orf00068	UniRef90_O05525	25.893	7.84e-04	Putative membrane peptidase YdiL	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_O05525>UniRef90_O05525</a>
+orf00070	P71473_LACPL	31.746	3.96e-04	PlnS 	Lactobacillus plantarum | II | A		<a href=http://www.uniprot.org/uniprot/P71473_LACPL>P71473_LACPL</a>
+orf00071	P71473_LACPL	38.889	2.13e-09	PlnS 	Lactobacillus plantarum | II | A		<a href=http://www.uniprot.org/uniprot/P71473_LACPL>P71473_LACPL</a>
+orf00073	UniRef90_O32215	34.143	1.20e-148	DNA helicase IV	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_O32215>UniRef90_O32215</a>
+orf00074	UniRef90_O31664	46.970	8.66e-89	Hydrolase MtnU	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_O31664>UniRef90_O31664</a>
+orf00077	UniRef90_Q9CJD1	67.155	3.30e-169	Tryptophan--tRNA ligase	Lactococcus		<a href=http://www.uniprot.org/uniprot/UniRef90_Q9CJD1>UniRef90_Q9CJD1</a>
+orf00079	UniRef90_Q45591	31.250	1.86e-30	Uncharacterized HTH-type transcriptional regulator YydK	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_Q45591>UniRef90_Q45591</a>
+orf00081	UniRef90_O05507	34.590	3.51e-77	PTS system oligo-beta-mannoside-specific EIIC component	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_O05507>UniRef90_O05507</a>
+orf00087	UniRef90_P17334	35.242	1.08e-69	PTS system N,N'-diacetylchitobiose-specific EIIC component	Proteobacteria		<a href=http://www.uniprot.org/uniprot/UniRef90_P17334>UniRef90_P17334</a>
+orf00088	UniRef90_P42973	57.773	0.0	Aryl-phospho-beta-D-glucosidase BglA	Bacilli		<a href=http://www.uniprot.org/uniprot/UniRef90_P42973>UniRef90_P42973</a>
+orf00089	UniRef90_Q93LQ8	34.014	9.47e-45	Beta-glucoside kinase	Enterobacterales		<a href=http://www.uniprot.org/uniprot/UniRef90_Q93LQ8>UniRef90_Q93LQ8</a>

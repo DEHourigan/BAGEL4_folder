@@ -1,0 +1,14 @@
+#                                                                            --- full sequence --- -------------- this domain -------------   hmm coord   ali coord   env coord
+# target name        accession   tlen query name           accession   qlen   E-value  score  bias   #  of  c-Evalue  i-Evalue  score  bias  from    to  from    to  from    to  acc description of target
+#------------------- ---------- ----- -------------------- ---------- ----- --------- ------ ----- --- --- --------- --------- ------ ----- ----- ----- ----- ----- ----- ----- ---- ---------------------
+frame_5              -           7075 Nitroreductase       PF00881.23   170   4.3e-25   77.4   0.0   1   1   1.1e-25   6.7e-25   76.8   0.0     1   170   265   449   265   449 0.87 -
+#
+# Program:         hmmsearch
+# Version:         3.1b2 (February 2015)
+# Pipeline mode:   SEARCH
+# Query file:      /data/users/david/bagel4/db_hmm/PF00881.hmm
+# Target file:     /data/users/david/bagel4/query_sequences/StrhenA4/scaffold00040.11.six_frames.fna
+# Option settings: /data/users/david/bagel4/tools/hmmsearch/binaries/hmmsearch --domtblout /data/users/david/bagel4/query_sequences/StrhenA4/scaffold00040.11.PF00881.domtblout --noali --domT 25 --cpu 10 /data/users/david/bagel4/db_hmm/PF00881.hmm /data/users/david/bagel4/query_sequences/StrhenA4/scaffold00040.11.six_frames.fna 
+# Current dir:     /data/users/david/bagel4/query_sequences/StrhenA4
+# Date:            Wed Jul 29 13:03:33 2020
+# [ok]

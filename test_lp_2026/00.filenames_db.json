@@ -1,0 +1,200 @@
+{
+   "18" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1.17",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_1",
+      "length" : 217137
+   },
+   "21" : {
+      "length" : 22535,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_41.20",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_41",
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "8" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_19.7",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_19",
+      "length" : 4868
+   },
+   "27" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 119459,
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_22",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_22.26"
+   },
+   "12" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_11",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_11.11",
+      "length" : 130365,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "1" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_31",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_31.0",
+      "length" : 99905,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "6" : {
+      "length" : 24577,
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_32",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_32.5",
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "20" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_5",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_5.19",
+      "length" : 170291
+   },
+   "5" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 179395,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_9.4",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_9"
+   },
+   "26" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_14",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_14.25",
+      "length" : 126255,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "19" : {
+      "length" : 146994,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_7.18",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_7",
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "23" : {
+      "length" : 115932,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3.22",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_3",
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "15" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_2.14",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_2",
+      "length" : 321404,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "24" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_8",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.23",
+      "length" : 268312,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "32" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 53241,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_10.31",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_10"
+   },
+   "3" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_29.2",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_29",
+      "length" : 21411,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "17" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 5765,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_40.16",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_40"
+   },
+   "33" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 93415,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_12.32",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_12"
+   },
+   "2" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_30",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_30.1",
+      "length" : 9520,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "22" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_21",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_21.21",
+      "length" : 70558,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "30" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_28",
+      "length" : 18927,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "7" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 181447,
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_6",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_6.6"
+   },
+   "28" : {
+      "length" : 20635,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_35.27",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_35",
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "11" : {
+      "length" : 23976,
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_38",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_38.10",
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "9" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_17.8",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_17",
+      "length" : 187257,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "14" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_4",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_4.13",
+      "length" : 143612,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "25" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 138279,
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_18",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_18.24"
+   },
+   "29" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_13",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_13.28",
+      "length" : 55533
+   },
+   "13" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "length" : 62994,
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_15.12",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_15"
+   },
+   "4" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_27.3",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_27",
+      "length" : 140152,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "10" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_39",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_39.9",
+      "length" : 5479,
+      "filename" : "test_in/LP58_genome.fna"
+   },
+   "16" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_16",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_16.15",
+      "length" : 83719
+   },
+   "31" : {
+      "filename" : "test_in/LP58_genome.fna",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_20",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_20.30",
+      "length" : 80863
+   }
+}

@@ -1,0 +1,3 @@
+esearch -db protein -query "lycopene cyclase" | efetch -format fasta
+
+/data/software/entrez/edirect/elink -db nuccore -id "NZ_KN150745.1" -target assembly|esummary|xtract -pattern DocumentSummary -element AssemblyAccession

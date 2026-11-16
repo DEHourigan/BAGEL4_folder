@@ -1,0 +1,234 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-04-16" modified="2019-12-11" version="17">
+<accession>W6IE39</accession>
+<name>W6IE39_BACCE</name>
+<protein>
+<submittedName>
+<fullName evidence="3">Cerecidin</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="4">Mersacidin/lichenicidin family type 2 lantibiotic</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="3">cerA1</name>
+<name type="synonym" evidence="2">cerA2</name>
+<name type="synonym" evidence="1">cerA4</name>
+<name type="ORF" evidence="7">CW365_00210</name>
+<name type="ORF" evidence="8">CW365_00225</name>
+<name type="ORF" evidence="4">CW365_08175</name>
+<name type="ORF" evidence="5">CW365_08180</name>
+<name type="ORF" evidence="6">CW365_08185</name>
+<name type="ORF" evidence="9">D0437_25020</name>
+</gene>
+<organism evidence="3">
+<name type="scientific">Bacillus cereus</name>
+<dbReference type="NCBI Taxonomy" id="1396"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Bacillales</taxon>
+<taxon>Bacillaceae</taxon>
+<taxon>Bacillus</taxon>
+<taxon>Bacillus cereus group</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="3">
+<citation type="journal article" date="2014" name="Appl. Environ. Microbiol." volume="80" first="2633" last="2643">
+<title>Cerecidins, Novel Lantibiotics from Bacillus cereus with Potent Antimicrobial Activity.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Zhang L."/>
+<person name="Teng K."/>
+<person name="Sun S."/>
+<person name="Sun Z."/>
+<person name="Zhong J."/>
+</authorList>
+<dbReference type="PubMed" id="24532070"/>
+<dbReference type="DOI" id="10.1128/AEM.03751-13"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="3">As1.1846</strain>
+</source>
+</reference>
+<reference key="2" evidence="4 10">
+<citation type="submission" date="2017-12" db="EMBL/GenBank/DDBJ databases">
+<title>Genome sequence of the halotolerant Bacillus cereus strain TS2 isolated from a saltern sediment in southern India.</title>
+<authorList>
+<person name="Shankar M."/>
+<person name="Mageswari A."/>
+<person name="Suganthi C."/>
+<person name="Gunasekaran P."/>
+<person name="Gothandam K.M."/>
+<person name="Karthikeyan S."/>
+</authorList>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="4 10">TS2</strain>
+</source>
+</reference>
+<reference key="3" evidence="9 11">
+<citation type="journal article" date="2019" name="Ecotoxicol. Environ. Saf." volume="181" first="472" last="480">
+<title>Microbial characterization of heavy metal resistant bacterial strains isolated from an electroplating wastewater treatment plant.</title>
+<authorList>
+<person name="Cai X."/>
+<person name="Zheng X."/>
+<person name="Zhang D."/>
+<person name="Iqbal W."/>
+<person name="Liu C."/>
+<person name="Yang B."/>
+<person name="Zhao X."/>
+<person name="Lu X."/>
+<person name="Mao Y."/>
+</authorList>
+<dbReference type="PubMed" id="31228823"/>
+<dbReference type="DOI" id=".1016/j.ecoenv.2019.06.036"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="9 11">Co1-1</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="KJ000001">
+<property type="protein sequence ID" value="AHJ59546.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="KJ000001">
+<property type="protein sequence ID" value="AHJ59548.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="KJ000001">
+<property type="protein sequence ID" value="AHJ59549.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="PIYQ01000022">
+<property type="protein sequence ID" value="PKF98871.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="PIYQ01000022">
+<property type="protein sequence ID" value="PKF98872.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="PIYQ01000022">
+<property type="protein sequence ID" value="PKF98873.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="PIYQ01000009">
+<property type="protein sequence ID" value="PKG00225.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="PIYQ01000009">
+<property type="protein sequence ID" value="PKG00228.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="CP031778">
+<property type="protein sequence ID" value="QDZ76153.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_000033704.1">
+<property type="nucleotide sequence ID" value="NZ_QHHK01000001.1"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="KXY53992">
+<property type="protein sequence ID" value="KXY53992"/>
+<property type="gene ID" value="AT261_12960"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="KXY76789">
+<property type="protein sequence ID" value="KXY76789"/>
+<property type="gene ID" value="AT270_10885"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000233489">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000321735">
+<property type="component" value="Chromosome"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050830">
+<property type="term" value="P:defense response to Gram-positive bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027632">
+<property type="entry name" value="Lant_SP_1948"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027635">
+<property type="entry name" value="Lantibiotic2_lead_pep_dom"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16934">
+<property type="entry name" value="Mersacidin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03893">
+<property type="entry name" value="lant_SP_1948"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03898">
+<property type="entry name" value="lanti_MRSA_kill"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AHJ59546.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AHJ59548.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AHJ59549.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PKF98871.1"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PKF98872.1"/>
+</source>
+</evidence>
+<evidence key="6" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PKF98873.1"/>
+</source>
+</evidence>
+<evidence key="7" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PKG00225.1"/>
+</source>
+</evidence>
+<evidence key="8" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="PKG00228.1"/>
+</source>
+</evidence>
+<evidence key="9" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="QDZ76153.1"/>
+</source>
+</evidence>
+<evidence key="10" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000233489"/>
+</source>
+</evidence>
+<evidence key="11" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000321735"/>
+</source>
+</evidence>
+<sequence length="77" mass="8525" checksum="9344654E793ECA19" modified="2014-04-16" version="1">MSKGYKFTKEELVEAWKDPQVREKLKDLPKHPSGKALNELSEEELAEIQGASDVQPETTPLCVGVIIGLTTSIKICK</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

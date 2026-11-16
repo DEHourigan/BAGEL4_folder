@@ -1,0 +1,186 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2014-03-19" modified="2020-04-22" version="17">
+<accession>W0FC94</accession>
+<name>W0FC94_CARML</name>
+<protein>
+<submittedName>
+<fullName evidence="1">CrnA1</fullName>
+</submittedName>
+<submittedName>
+<fullName evidence="3">Type 2 lantibiotic</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">crnA1</name>
+<name type="ORF" evidence="3">CKN95_14680</name>
+<name type="ORF" evidence="2">IV76_GL003301</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Carnobacterium maltaromaticum</name>
+<name type="synonym">Carnobacterium piscicola</name>
+<dbReference type="NCBI Taxonomy" id="2751"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Firmicutes</taxon>
+<taxon>Bacilli</taxon>
+<taxon>Lactobacillales</taxon>
+<taxon>Carnobacteriaceae</taxon>
+<taxon>Carnobacterium</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="2014" name="Int. J. Food Microbiol." volume="173" first="81" last="88">
+<title>Purification and characterization of antimicrobial peptides from fish isolate Carnobacterium maltaromaticum C2: Carnobacteriocin X and carnolysins A1 and A2.</title>
+<authorList>
+<person name="Tulini F.L."/>
+<person name="Lohans C.T."/>
+<person name="Bordon K.C."/>
+<person name="Zheng J."/>
+<person name="Arantes E.C."/>
+<person name="Vederas J.C."/>
+<person name="De Martinis E.C."/>
+</authorList>
+<dbReference type="PubMed" id="24412962"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="1">C2</strain>
+</source>
+</reference>
+<reference key="2" evidence="2 4">
+<citation type="journal article" date="2015" name="Nat. Commun." volume="6" first="8322" last="8322">
+<title>Expanding the biotechnology potential of lactobacilli through comparative genomics of 213 strains and associated genera.</title>
+<authorList>
+<person name="Sun Z."/>
+<person name="Harris H.M."/>
+<person name="McCann A."/>
+<person name="Guo C."/>
+<person name="Argimon S."/>
+<person name="Zhang W."/>
+<person name="Yang X."/>
+<person name="Jeffery I.B."/>
+<person name="Cooney J.C."/>
+<person name="Kagawa T.F."/>
+<person name="Liu W."/>
+<person name="Song Y."/>
+<person name="Salvetti E."/>
+<person name="Wrobel A."/>
+<person name="Rasinkangas P."/>
+<person name="Parkhill J."/>
+<person name="Rea M.C."/>
+<person name="O'Sullivan O."/>
+<person name="Ritari J."/>
+<person name="Douillard F.P."/>
+<person name="Paul Ross R."/>
+<person name="Yang R."/>
+<person name="Briner A.E."/>
+<person name="Felis G.E."/>
+<person name="de Vos W.M."/>
+<person name="Barrangou R."/>
+<person name="Klaenhammer T.R."/>
+<person name="Caufield P.W."/>
+<person name="Cui Y."/>
+<person name="Zhang H."/>
+<person name="O'Toole P.W."/>
+</authorList>
+<dbReference type="PubMed" id="26415554"/>
+<dbReference type="DOI" id="10.1038/ncomms9322"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="2 4">DSM 20730</strain>
+</source>
+</reference>
+<reference key="3" evidence="3 5">
+<citation type="journal article" date="2018" name="Int. J. Food Microbiol." volume="286" first="120" last="127">
+<title>Growth of Carnobacterium spp. isolated from chilled vacuum-packaged meat under relevant acidic conditions.</title>
+<authorList>
+<person name="Zhang P."/>
+<person name="Badoni M."/>
+<person name="Ganzle M."/>
+<person name="Yang X."/>
+</authorList>
+<dbReference type="PubMed" id="30081251"/>
+<dbReference type="DOI" id=".1016/j.ijfoodmicro.2018.07.032"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE [LARGE SCALE GENOMIC DNA]</scope>
+<source>
+<strain evidence="3 5">A5</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="KF573751">
+<property type="protein sequence ID" value="AHF21238.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="JQBV01000009">
+<property type="protein sequence ID" value="KRN71784.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="EMBL" id="NRQE01000014">
+<property type="protein sequence ID" value="TFJ63468.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="RefSeq" id="WP_056999992.1">
+<property type="nucleotide sequence ID" value="NZ_NRQE01000014.1"/>
+</dbReference>
+<dbReference type="EnsemblBacteria" id="KRN71784">
+<property type="protein sequence ID" value="KRN71784"/>
+<property type="gene ID" value="IV76_GL003301"/>
+</dbReference>
+<dbReference type="PATRIC" id="fig|2751.33.peg.615"/>
+<dbReference type="Proteomes" id="UP000051747">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="Proteomes" id="UP000298396">
+<property type="component" value="Unassembled WGS sequence"/>
+</dbReference>
+<dbReference type="GO" id="GO:0050830">
+<property type="term" value="P:defense response to Gram-positive bacterium"/>
+<property type="evidence" value="ECO:0000501"/>
+<property type="project" value="InterPro"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR027632">
+<property type="entry name" value="Lant_SP_1948"/>
+</dbReference>
+<dbReference type="Pfam" id="PF16934">
+<property type="entry name" value="Mersacidin"/>
+<property type="match status" value="1"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03893">
+<property type="entry name" value="lant_SP_1948"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="AHF21238.1"/>
+</source>
+</evidence>
+<evidence key="2" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="KRN71784.1"/>
+</source>
+</evidence>
+<evidence key="3" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="TFJ63468.1"/>
+</source>
+</evidence>
+<evidence key="4" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000051747"/>
+</source>
+</evidence>
+<evidence key="5" type="ECO:0000313">
+<source>
+<dbReference type="Proteomes" id="UP000298396"/>
+</source>
+</evidence>
+<sequence length="73" mass="7413" checksum="62F309EF73111A13" modified="2014-03-19" version="1">MSELSMEKVVGETFEDLSIAEMTMVQGSGDINGEFTTSPACVYSVMVVSKASSAKCAAGASAVSGAILSAIRC</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

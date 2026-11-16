@@ -1,0 +1,69 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2008-01-15" modified="2019-12-11" version="9">
+<accession>A8Y993</accession>
+<name>A8Y993_MICAE</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Microcyclamide protein</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">mcaE</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Microcystis aeruginosa NIES-298</name>
+<dbReference type="NCBI Taxonomy" id="449468"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Cyanobacteria</taxon>
+<taxon>Oscillatoriophycideae</taxon>
+<taxon>Chroococcales</taxon>
+<taxon>Microcystaceae</taxon>
+<taxon>Microcystis</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="2008" name="Appl. Environ. Microbiol." volume="74" first="1791" last="1797">
+<title>Microcyclamide biosynthesis in two strains of Microcystis aeruginosa: from structure to genes and vice versa.</title>
+<authorList>
+<person name="Ziemert N."/>
+<person name="Ishida K."/>
+<person name="Quillardet P."/>
+<person name="Bouchier C."/>
+<person name="Hertweck C."/>
+<person name="de Marsac N.T."/>
+<person name="Dittmann E."/>
+</authorList>
+<dbReference type="PubMed" id="18245249"/>
+<dbReference type="DOI" id="10.1128/AEM.02392-07"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="1">NIES-298</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="AM774406">
+<property type="protein sequence ID" value="CAO82085.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<dbReference type="InterPro" id="IPR022264">
+<property type="entry name" value="Microcy/ptell_bactrcn_lead_pep"/>
+</dbReference>
+<dbReference type="TIGRFAMs" id="TIGR03678">
+<property type="entry name" value="het_cyc_patell"/>
+<property type="match status" value="1"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="CAO82085.1"/>
+</source>
+</evidence>
+<sequence length="74" mass="7801" checksum="1020C59B4F259AFB" modified="2008-01-15" version="1">MRITPMDKKNILPQQGKPVFRTTTGKLPSYLAELSEEALGGNGLEASHCATICAFDGAEASHCATICAFDGDEA</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

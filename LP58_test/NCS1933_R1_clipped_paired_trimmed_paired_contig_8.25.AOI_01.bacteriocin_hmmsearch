@@ -1,0 +1,19 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+orf00059             -          ggmotif              -              0.001   11.7   0.0    0.0014   11.3   0.0   1.3   1   0   0   1   1   0   1 -
+orf00036             -          ComC                 PF03047.13   3.7e-05   16.0   1.3   5.3e-05   15.5   1.3   1.3   1   0   0   1   1   0   1 -
+orf00059             -          Lactococcin          PF04369.12   0.00064   12.4   0.0   0.00084   12.0   0.0   1.3   1   1   0   1   1   0   1 -
+orf00036             -          Bacteriocin_IIc      PF10439.8    1.4e-07   24.1   0.3   1.5e-07   24.0   0.3   1.1   1   0   0   1   1   0   1 -
+orf00059             -          Bacteriocin_IIc      PF10439.8    9.5e-06   18.2   0.0   1.2e-05   17.9   0.0   1.2   1   0   0   1   1   0   1 -
+orf00048             -          Bacteriocin_IIc      PF10439.8    0.00022   13.8   0.1    0.0003   13.4   0.1   1.2   1   0   0   1   1   0   1 -
+#
+# Program:         hmmsearch
+# Version:         3.3 (Nov 2019)
+# Pipeline mode:   SEARCH
+# Query file:      ./db_hmm/bagel4_bacteriocin_hmms
+# Target file:     LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.faa
+# Option settings: hmmsearch --tblout LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.bacteriocin_hmmsearch --domT 25 --cpu 16 ./db_hmm/bagel4_bacteriocin_hmms LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.faa 
+# Current dir:     /data/users/david/bagel4
+# Date:            Tue Sep 29 01:05:39 2020
+# [ok]

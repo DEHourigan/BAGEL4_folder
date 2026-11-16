@@ -1,0 +1,17 @@
+{
+   "ResultsTable" : [
+      {
+         "end" : "56106",
+         "AOI" : "<a href=http://bagel4.molgenrug.nl/php/GeneTableSingleGraph.html?sessionID=StrhenA4&AOI_count=1&queryname=scaffold00003.2.AOI_01 target=_blank><b>scaffold00003.2.AOI_01</b></a>",
+         "class" : "130.1;Thermophilin1277",
+         "filename" : "/data/users/david/bagel4/query_sequences/StrhenA4/StrhenA4.fna",
+         "start" : "33359"
+      }
+   ],
+   "SummaryTable" : {
+      "AOIcount" : "1",
+      "filecount" : "1",
+      "basecount" : "2416036",
+      "querycount" : "55"
+   }
+}

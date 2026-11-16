@@ -1,0 +1,14 @@
+name: bagel4
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=2
+  - blast-legacy
+  - ca-certificates
+  - certifi
+  - openssl
+  - perl=5
+  - perl-app-cpanminus
+  - perl-lwp-simple

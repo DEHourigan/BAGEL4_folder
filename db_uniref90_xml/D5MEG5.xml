@@ -1,0 +1,61 @@
+<?xml version='1.0'?>
+<uniprot xmlns="http://uniprot.org/uniprot" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://uniprot.org/uniprot http://www.uniprot.org/support/docs/uniprot.xsd">
+<entry dataset="TrEMBL" created="2010-06-15" modified="2019-12-11" version="9">
+<accession>D5MEG5</accession>
+<name>D5MEG5_STRHY</name>
+<protein>
+<submittedName>
+<fullName evidence="1">Uncharacterized protein cltA</fullName>
+</submittedName>
+</protein>
+<gene>
+<name type="primary" evidence="1">cltA</name>
+</gene>
+<organism evidence="1">
+<name type="scientific">Streptomyces hygroscopicus</name>
+<dbReference type="NCBI Taxonomy" id="1912"/>
+<lineage>
+<taxon>Bacteria</taxon>
+<taxon>Actinobacteria</taxon>
+<taxon>Streptomycetales</taxon>
+<taxon>Streptomycetaceae</taxon>
+<taxon>Streptomyces</taxon>
+</lineage>
+</organism>
+<reference key="1" evidence="1">
+<citation type="journal article" date="2010" name="Appl. Environ. Microbiol." volume="76" first="2335" last="2344">
+<title>Identification and analysis of the biosynthetic gene cluster encoding the thiopeptide antibiotic cyclothiazomycin in Streptomyces hygroscopicus 10-22.</title>
+<authorList>
+<person name="Wang J."/>
+<person name="Yu Y."/>
+<person name="Tang K."/>
+<person name="Liu W."/>
+<person name="He X."/>
+<person name="Huang X."/>
+<person name="Deng Z."/>
+</authorList>
+<dbReference type="PubMed" id="20154110"/>
+<dbReference type="DOI" id="10.1128/AEM.01790-09"/>
+</citation>
+<scope>NUCLEOTIDE SEQUENCE</scope>
+<source>
+<strain evidence="1">10-22</strain>
+</source>
+</reference>
+<dbReference type="EMBL" id="FJ472825">
+<property type="protein sequence ID" value="ACS50131.1"/>
+<property type="molecule type" value="Genomic_DNA"/>
+</dbReference>
+<proteinExistence type="predicted"/>
+<evidence key="1" type="ECO:0000313">
+<source>
+<dbReference type="EMBL" id="ACS50131.1"/>
+</source>
+</evidence>
+<sequence length="60" mass="6062" checksum="204D47D440BC5BEB" modified="2010-06-15" version="1">MEKELVLDLADLSVDELDVLPTSPGAGLESINVGHAMVEIGASNCTSTGTPASCCSCCCC</sequence>
+</entry>
+<copyright>
+Copyrighted by the UniProt Consortium, see https://www.uniprot.org/terms
+Distributed under the Creative Commons Attribution (CC BY 4.0) License
+</copyright>
+</uniprot>

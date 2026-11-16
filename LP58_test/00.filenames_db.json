@@ -1,0 +1,1736 @@
+{
+   "192" : {
+      "length" : "32755",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.191",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.six_frames.fna"
+   },
+   "223" : {
+      "fullname" : "frame_4",
+      "length" : "47085",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.six_frames.fna",
+      "queryname" : "frame_4.222"
+   },
+   "185" : {
+      "queryname" : "frame_6.184",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.six_frames.fna",
+      "length" : "3120",
+      "fullname" : "frame_6"
+   },
+   "101" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.six_frames.fna",
+      "queryname" : "frame_4.100",
+      "fullname" : "frame_4",
+      "length" : "27448"
+   },
+   "92" : {
+      "queryname" : "frame_6.91",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.six_frames.fna",
+      "length" : "20653",
+      "fullname" : "frame_6"
+   },
+   "87" : {
+      "queryname" : "frame_4.86",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.six_frames.fna",
+      "length" : "41395",
+      "fullname" : "frame_4"
+   },
+   "176" : {
+      "queryname" : "frame_1.175",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.six_frames.fna",
+      "length" : "38010",
+      "fullname" : "frame_1"
+   },
+   "29" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_11",
+      "length" : "130365",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_11.28"
+   },
+   "224" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.six_frames.fna",
+      "queryname" : "frame_5.223",
+      "fullname" : "frame_5",
+      "length" : "47085"
+   },
+   "35" : {
+      "queryname" : "frame_1.34",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.six_frames.fna",
+      "length" : "71192",
+      "fullname" : "frame_1"
+   },
+   "20" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_20.19",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "80863",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_20"
+   },
+   "97" : {
+      "queryname" : "frame_2.96",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.six_frames.fna",
+      "length" : "27448",
+      "fullname" : "frame_2"
+   },
+   "79" : {
+      "queryname" : "frame_3.78",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.six_frames.fna",
+      "length" : "18206",
+      "fullname" : "frame_3"
+   },
+   "68" : {
+      "queryname" : "frame_3.67",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.six_frames.fna",
+      "length" : "30627",
+      "fullname" : "frame_3"
+   },
+   "33" : {
+      "length" : "4868",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_19",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_19.32",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "233" : {
+      "fullname" : "frame_5",
+      "length" : "7388",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.six_frames.fna",
+      "queryname" : "frame_5.232"
+   },
+   "120" : {
+      "length" : "105378",
+      "fullname" : "frame_5",
+      "queryname" : "frame_5.119",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.six_frames.fna"
+   },
+   "34" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13",
+      "length" : "217137",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_113.33"
+   },
+   "186" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3124.185",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.fna",
+      "length" : "99905",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24"
+   },
+   "164" : {
+      "queryname" : "frame_2.163",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.six_frames.fna",
+      "length" : "6205",
+      "fullname" : "frame_2"
+   },
+   "48" : {
+      "queryname" : "frame_1.47",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.six_frames.fna",
+      "length" : "17456",
+      "fullname" : "frame_1"
+   },
+   "166" : {
+      "length" : "7019",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.165",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.six_frames.fna"
+   },
+   "257" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_2",
+      "length" : "40153",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.blast.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_2.256"
+   },
+   "40" : {
+      "fullname" : "frame_3",
+      "length" : "71191",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.six_frames.fna",
+      "queryname" : "frame_3.39"
+   },
+   "277" : {
+      "fullname" : "AOIprotein4",
+      "length" : "13703",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.tmp_proteins.fna",
+      "queryname" : "AOIprotein4.276"
+   },
+   "4" : {
+      "length" : "62994",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_15",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_15.3",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "96" : {
+      "length" : "27448",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.95",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.six_frames.fna"
+   },
+   "263" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_01.262",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.masked.fna",
+      "length" : "48062",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01"
+   },
+   "254" : {
+      "queryname" : "frame_6.253",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.six_frames.fna",
+      "length" : "48194",
+      "fullname" : "frame_6"
+   },
+   "266" : {
+      "length" : "15837",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.265",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.six_frames.fna"
+   },
+   "90" : {
+      "queryname" : "frame_4.89",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.six_frames.fna",
+      "length" : "20653",
+      "fullname" : "frame_4"
+   },
+   "271" : {
+      "fullname" : "frame_3",
+      "length" : "87970",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna",
+      "queryname" : "frame_3.270"
+   },
+   "252" : {
+      "queryname" : "frame_1.251",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.six_frames.fna",
+      "length" : "48194",
+      "fullname" : "frame_1"
+   },
+   "14" : {
+      "length" : "119459",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_22",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_22.13",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "285" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.six_frames.fna",
+      "queryname" : "frame_1.284",
+      "fullname" : "frame_1",
+      "length" : "58818"
+   },
+   "122" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.six_frames.fna",
+      "queryname" : "frame_1.121",
+      "fullname" : "frame_1",
+      "length" : "105378"
+   },
+   "194" : {
+      "queryname" : "frame_4.193",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.six_frames.fna",
+      "length" : "8058",
+      "fullname" : "frame_4"
+   },
+   "121" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.six_frames.fna",
+      "queryname" : "frame_6.120",
+      "fullname" : "frame_6",
+      "length" : "105377"
+   },
+   "49" : {
+      "fullname" : "frame_4",
+      "length" : "17456",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.six_frames.fna",
+      "queryname" : "frame_4.48"
+   },
+   "3" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3.2",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_3",
+      "length" : "115932"
+   },
+   "150" : {
+      "queryname" : "frame_3.149",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.six_frames.fna",
+      "length" : "39166",
+      "fullname" : "frame_3"
+   },
+   "276" : {
+      "length" : "87971",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.275",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna"
+   },
+   "203" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.tmp_proteins.fna",
+      "queryname" : "AOIprotein6.202",
+      "fullname" : "AOIprotein6",
+      "length" : "7341"
+   },
+   "139" : {
+      "queryname" : "frame_4.138",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.six_frames.fna",
+      "length" : "23133",
+      "fullname" : "frame_4"
+   },
+   "208" : {
+      "length" : "6765",
+      "fullname" : "frame_2",
+      "queryname" : "frame_2.207",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.six_frames.fna"
+   },
+   "64" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.tmp_proteins.fna",
+      "queryname" : "AOIprotein4.63",
+      "fullname" : "AOIprotein4",
+      "length" : "7825"
+   },
+   "60" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.six_frames.fna",
+      "queryname" : "frame_4.59",
+      "fullname" : "frame_4",
+      "length" : "42742"
+   },
+   "99" : {
+      "queryname" : "frame_6.98",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.six_frames.fna",
+      "length" : "27448",
+      "fullname" : "frame_6"
+   },
+   "218" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.six_frames.fna",
+      "queryname" : "frame_5.217",
+      "fullname" : "frame_5",
+      "length" : "7860"
+   },
+   "248" : {
+      "fullname" : "frame_1",
+      "length" : "59490",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.six_frames.fna",
+      "queryname" : "frame_1.247"
+   },
+   "153" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.six_frames.fna",
+      "queryname" : "frame_3.152",
+      "fullname" : "frame_3",
+      "length" : "45950"
+   },
+   "109" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_186.108",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6",
+      "length" : "138279"
+   },
+   "230" : {
+      "length" : "7387",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.229",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.six_frames.fna"
+   },
+   "114" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.six_frames.fna",
+      "queryname" : "frame_2.113",
+      "fullname" : "frame_2",
+      "length" : "45337"
+   },
+   "78" : {
+      "length" : "18207",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.77",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.six_frames.fna"
+   },
+   "134" : {
+      "queryname" : "frame_6.133",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.six_frames.fna",
+      "length" : "26511",
+      "fullname" : "frame_6"
+   },
+   "269" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.six_frames.fna",
+      "queryname" : "frame_2.268",
+      "fullname" : "frame_2",
+      "length" : "15837"
+   },
+   "193" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3232.192",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32",
+      "length" : "24577"
+   },
+   "11" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_10",
+      "length" : "53241",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10"
+   },
+   "180" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.six_frames.fna",
+      "queryname" : "frame_2.179",
+      "fullname" : "frame_2",
+      "length" : "3120"
+   },
+   "283" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_930.282",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.fna",
+      "length" : "179395",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30"
+   },
+   "255" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.six_frames.fna",
+      "queryname" : "frame_2.254",
+      "fullname" : "frame_2",
+      "length" : "48194"
+   },
+   "45" : {
+      "queryname" : "AOIprotein1.44",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.tmp_proteins.fna",
+      "length" : "13509",
+      "fullname" : "AOIprotein1"
+   },
+   "105" : {
+      "fullname" : "frame_5",
+      "length" : "61395",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.six_frames.fna",
+      "queryname" : "frame_5.104"
+   },
+   "178" : {
+      "length" : "38010",
+      "fullname" : "frame_2",
+      "queryname" : "frame_2.177",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.six_frames.fna"
+   },
+   "119" : {
+      "queryname" : "frame_2.118",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.six_frames.fna",
+      "length" : "105378",
+      "fullname" : "frame_2"
+   },
+   "259" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_1",
+      "length" : "40165",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.blast.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_1.258"
+   },
+   "250" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_716.249",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.fna",
+      "length" : "146994",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16"
+   },
+   "37" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.six_frames.fna",
+      "queryname" : "frame_5.36",
+      "fullname" : "frame_5",
+      "length" : "71192"
+   },
+   "141" : {
+      "length" : "23133",
+      "fullname" : "frame_5",
+      "queryname" : "frame_5.140",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.six_frames.fna"
+   },
+   "80" : {
+      "queryname" : "frame_2.79",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.six_frames.fna",
+      "length" : "18207",
+      "fullname" : "frame_2"
+   },
+   "199" : {
+      "length" : "8057",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.198",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.six_frames.fna"
+   },
+   "148" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.six_frames.fna",
+      "queryname" : "frame_6.147",
+      "fullname" : "frame_6",
+      "length" : "39166"
+   },
+   "38" : {
+      "length" : "71191",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.37",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.six_frames.fna"
+   },
+   "287" : {
+      "fullname" : "frame_6",
+      "length" : "58817",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.six_frames.fna",
+      "queryname" : "frame_6.286"
+   },
+   "219" : {
+      "length" : "7860",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.218",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.six_frames.fna"
+   },
+   "279" : {
+      "length" : "13703",
+      "fullname" : "AOIprotein3",
+      "queryname" : "AOIprotein3.278",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.tmp_proteins.fna"
+   },
+   "171" : {
+      "length" : "7020",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.170",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.six_frames.fna"
+   },
+   "146" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.six_frames.fna",
+      "queryname" : "frame_1.145",
+      "fullname" : "frame_1",
+      "length" : "39166"
+   },
+   "217" : {
+      "queryname" : "frame_4.216",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.six_frames.fna",
+      "length" : "7860",
+      "fullname" : "frame_4"
+   },
+   "53" : {
+      "queryname" : "frame_3.52",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.six_frames.fna",
+      "length" : "17455",
+      "fullname" : "frame_3"
+   },
+   "86" : {
+      "length" : "41395",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.85",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.six_frames.fna"
+   },
+   "214" : {
+      "fullname" : "frame_2",
+      "length" : "7860",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.six_frames.fna",
+      "queryname" : "frame_2.213"
+   },
+   "174" : {
+      "length" : "38010",
+      "fullname" : "frame_5",
+      "queryname" : "frame_5.173",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.six_frames.fna"
+   },
+   "52" : {
+      "fullname" : "frame_2",
+      "length" : "17455",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.six_frames.fna",
+      "queryname" : "frame_2.51"
+   },
+   "191" : {
+      "fullname" : "frame_2",
+      "length" : "32755",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.six_frames.fna",
+      "queryname" : "frame_2.190"
+   },
+   "70" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.six_frames.fna",
+      "queryname" : "frame_5.69",
+      "fullname" : "frame_5",
+      "length" : "30627"
+   },
+   "128" : {
+      "length" : "13516",
+      "fullname" : "AOIprotein1",
+      "queryname" : "AOIprotein1.127",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.tmp_proteins.fna"
+   },
+   "267" : {
+      "fullname" : "frame_1",
+      "length" : "15837",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.six_frames.fna",
+      "queryname" : "frame_1.266"
+   },
+   "231" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.six_frames.fna",
+      "queryname" : "frame_2.230",
+      "fullname" : "frame_2",
+      "length" : "7388"
+   },
+   "210" : {
+      "length" : "6764",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.209",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.six_frames.fna"
+   },
+   "50" : {
+      "length" : "17455",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.49",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.six_frames.fna"
+   },
+   "247" : {
+      "fullname" : "frame_5",
+      "length" : "59490",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.six_frames.fna",
+      "queryname" : "frame_5.246"
+   },
+   "110" : {
+      "fullname" : "frame_1",
+      "length" : "45337",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.six_frames.fna",
+      "queryname" : "frame_1.109"
+   },
+   "130" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_201.129",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.fna",
+      "length" : "80863",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1"
+   },
+   "94" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.six_frames.fna",
+      "queryname" : "frame_3.93",
+      "fullname" : "frame_3",
+      "length" : "20653"
+   },
+   "207" : {
+      "fullname" : "frame_3",
+      "length" : "6764",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.six_frames.fna",
+      "queryname" : "frame_3.206"
+   },
+   "91" : {
+      "length" : "20653",
+      "fullname" : "frame_5",
+      "queryname" : "frame_5.90",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.six_frames.fna"
+   },
+   "205" : {
+      "queryname" : "AOIprotein2.204",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.tmp_proteins.fna",
+      "length" : "7341",
+      "fullname" : "AOIprotein2"
+   },
+   "73" : {
+      "queryname" : "frame_1.72",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.six_frames.fna",
+      "length" : "30627",
+      "fullname" : "frame_1"
+   },
+   "47" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10",
+      "length" : "53241",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1010.46"
+   },
+   "169" : {
+      "queryname" : "frame_6.168",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.six_frames.fna",
+      "length" : "7019",
+      "fullname" : "frame_6"
+   },
+   "215" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.six_frames.fna",
+      "queryname" : "frame_3.214",
+      "fullname" : "frame_3",
+      "length" : "7860"
+   },
+   "175" : {
+      "length" : "38010",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.174",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.six_frames.fna"
+   },
+   "172" : {
+      "length" : "115932",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_37.171",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.fna"
+   },
+   "126" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.tmp_proteins.fna",
+      "queryname" : "AOIprotein4.125",
+      "fullname" : "AOIprotein4",
+      "length" : "13516"
+   },
+   "177" : {
+      "fullname" : "frame_3",
+      "length" : "38009",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.six_frames.fna",
+      "queryname" : "frame_3.176"
+   },
+   "108" : {
+      "fullname" : "frame_3",
+      "length" : "61395",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.six_frames.fna",
+      "queryname" : "frame_3.107"
+   },
+   "7" : {
+      "length" : "187257",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_17",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_17.6",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "74" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17",
+      "length" : "55533",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1317.73"
+   },
+   "111" : {
+      "fullname" : "frame_4",
+      "length" : "45337",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.six_frames.fna",
+      "queryname" : "frame_4.110"
+   },
+   "9" : {
+      "length" : "9520",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_30",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_30.8",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "282" : {
+      "fullname" : "AOIprotein1",
+      "length" : "13703",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.tmp_proteins.fna",
+      "queryname" : "AOIprotein1.281"
+   },
+   "36" : {
+      "queryname" : "frame_4.35",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.six_frames.fna",
+      "length" : "71192",
+      "fullname" : "frame_4"
+   },
+   "235" : {
+      "length" : "7388",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.234",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.six_frames.fna"
+   },
+   "27" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_35",
+      "length" : "20635",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_35.26"
+   },
+   "179" : {
+      "length" : "9520",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3019.178",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.fna"
+   },
+   "131" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.six_frames.fna",
+      "queryname" : "frame_3.130",
+      "fullname" : "frame_3",
+      "length" : "26511"
+   },
+   "272" : {
+      "fullname" : "frame_2",
+      "length" : "87970",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna",
+      "queryname" : "frame_2.271"
+   },
+   "173" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.six_frames.fna",
+      "queryname" : "frame_6.172",
+      "fullname" : "frame_6",
+      "length" : "38009"
+   },
+   "30" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_32.29",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "24577",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_32"
+   },
+   "216" : {
+      "length" : "7860",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.215",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.six_frames.fna"
+   },
+   "55" : {
+      "length" : "42741",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.54",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.six_frames.fna"
+   },
+   "61" : {
+      "length" : "7825",
+      "fullname" : "AOIprotein5",
+      "queryname" : "AOIprotein5.60",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.tmp_proteins.fna"
+   },
+   "2" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_6.1",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_6",
+      "length" : "181447"
+   },
+   "89" : {
+      "fullname" : "frame_1",
+      "length" : "20653",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.six_frames.fna",
+      "queryname" : "frame_1.88"
+   },
+   "229" : {
+      "length" : "22535",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_410.228",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna"
+   },
+   "44" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.tmp_proteins.fna",
+      "queryname" : "AOIprotein3.43",
+      "fullname" : "AOIprotein3",
+      "length" : "13509"
+   },
+   "127" : {
+      "queryname" : "AOIprotein2.126",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.tmp_proteins.fna",
+      "length" : "13516",
+      "fullname" : "AOIprotein2"
+   },
+   "129" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.tmp_proteins.fna",
+      "queryname" : "AOIprotein5.128",
+      "fullname" : "AOIprotein5",
+      "length" : "13516"
+   },
+   "71" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.six_frames.fna",
+      "queryname" : "frame_6.70",
+      "fullname" : "frame_6",
+      "length" : "30627"
+   },
+   "106" : {
+      "fullname" : "frame_6",
+      "length" : "61395",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.six_frames.fna",
+      "queryname" : "frame_6.105"
+   },
+   "184" : {
+      "fullname" : "frame_5",
+      "length" : "3120",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.six_frames.fna",
+      "queryname" : "frame_5.183"
+   },
+   "67" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1218.66",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.fna",
+      "length" : "93415",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18"
+   },
+   "241" : {
+      "queryname" : "frame_6.240",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.six_frames.fna",
+      "length" : "55832",
+      "fullname" : "frame_6"
+   },
+   "17" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_18",
+      "length" : "138279",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_18.16"
+   },
+   "6" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_29.5",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "21411",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_29"
+   },
+   "115" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.six_frames.fna",
+      "queryname" : "frame_3.114",
+      "fullname" : "frame_3",
+      "length" : "45336"
+   },
+   "135" : {
+      "fullname" : "frame_4",
+      "length" : "26512",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.six_frames.fna",
+      "queryname" : "frame_4.134"
+   },
+   "281" : {
+      "queryname" : "AOIprotein5.280",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.tmp_proteins.fna",
+      "length" : "13703",
+      "fullname" : "AOIprotein5"
+   },
+   "236" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_53.235",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.fna",
+      "length" : "170291",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3"
+   },
+   "222" : {
+      "fullname" : "frame_1",
+      "length" : "47085",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.six_frames.fna",
+      "queryname" : "frame_1.221"
+   },
+   "5" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_27.4",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "140152",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_27"
+   },
+   "46" : {
+      "length" : "13509",
+      "fullname" : "AOIprotein5",
+      "queryname" : "AOIprotein5.45",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.tmp_proteins.fna"
+   },
+   "256" : {
+      "fullname" : "frame_3",
+      "length" : "48194",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.six_frames.fna",
+      "queryname" : "frame_3.255"
+   },
+   "140" : {
+      "fullname" : "frame_6",
+      "length" : "23133",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.six_frames.fna",
+      "queryname" : "frame_6.139"
+   },
+   "138" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.six_frames.fna",
+      "queryname" : "frame_1.137",
+      "fullname" : "frame_1",
+      "length" : "23133"
+   },
+   "190" : {
+      "length" : "32755",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.189",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.six_frames.fna"
+   },
+   "258" : {
+      "length" : "40162",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_4",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_4.257",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.blast.fna"
+   },
+   "93" : {
+      "fullname" : "frame_2",
+      "length" : "20653",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.six_frames.fna",
+      "queryname" : "frame_2.92"
+   },
+   "274" : {
+      "fullname" : "frame_5",
+      "length" : "87970",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna",
+      "queryname" : "frame_5.273"
+   },
+   "136" : {
+      "queryname" : "frame_1.135",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.six_frames.fna",
+      "length" : "26512",
+      "fullname" : "frame_1"
+   },
+   "41" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.tmp_proteins.fna",
+      "queryname" : "AOIprotein4.40",
+      "fullname" : "AOIprotein4",
+      "length" : "13509"
+   },
+   "249" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.six_frames.fna",
+      "queryname" : "frame_4.248",
+      "fullname" : "frame_4",
+      "length" : "59490"
+   },
+   "57" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.six_frames.fna",
+      "queryname" : "frame_6.56",
+      "fullname" : "frame_6",
+      "length" : "42741"
+   },
+   "76" : {
+      "length" : "18206",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.75",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.six_frames.fna"
+   },
+   "132" : {
+      "fullname" : "frame_2",
+      "length" : "26512",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.six_frames.fna",
+      "queryname" : "frame_2.131"
+   },
+   "154" : {
+      "fullname" : "frame_4",
+      "length" : "45951",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.six_frames.fna",
+      "queryname" : "frame_4.153"
+   },
+   "24" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.23",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_8",
+      "length" : "268312"
+   },
+   "228" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2",
+      "length" : "5765",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_402.227"
+   },
+   "133" : {
+      "queryname" : "frame_5.132",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.six_frames.fna",
+      "length" : "26512",
+      "fullname" : "frame_5"
+   },
+   "125" : {
+      "queryname" : "AOIprotein3.124",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.tmp_proteins.fna",
+      "length" : "13516",
+      "fullname" : "AOIprotein3"
+   },
+   "113" : {
+      "queryname" : "frame_5.112",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.six_frames.fna",
+      "length" : "45337",
+      "fullname" : "frame_5"
+   },
+   "232" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.six_frames.fna",
+      "queryname" : "frame_6.231",
+      "fullname" : "frame_6",
+      "length" : "7387"
+   },
+   "253" : {
+      "queryname" : "frame_5.252",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.six_frames.fna",
+      "length" : "48194",
+      "fullname" : "frame_5"
+   },
+   "1" : {
+      "length" : "22535",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_41",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "280" : {
+      "fullname" : "AOIprotein6",
+      "length" : "13703",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.tmp_proteins.fna",
+      "queryname" : "AOIprotein6.279"
+   },
+   "211" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.six_frames.fna",
+      "queryname" : "frame_1.210",
+      "fullname" : "frame_1",
+      "length" : "6765"
+   },
+   "157" : {
+      "queryname" : "frame_6.156",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.six_frames.fna",
+      "length" : "45950",
+      "fullname" : "frame_6"
+   },
+   "239" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.six_frames.fna",
+      "queryname" : "frame_1.238",
+      "fullname" : "frame_1",
+      "length" : "55833"
+   },
+   "43" : {
+      "queryname" : "AOIprotein6.42",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.tmp_proteins.fna",
+      "length" : "13509",
+      "fullname" : "AOIprotein6"
+   },
+   "144" : {
+      "length" : "119459",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_2214.143",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.fna"
+   },
+   "243" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_627.242",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27",
+      "length" : "181447"
+   },
+   "102" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15",
+      "length" : "187257",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1715.101"
+   },
+   "65" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.tmp_proteins.fna",
+      "queryname" : "AOIprotein3.64",
+      "fullname" : "AOIprotein3",
+      "length" : "7824"
+   },
+   "83" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.six_frames.fna",
+      "queryname" : "frame_2.82",
+      "fullname" : "frame_2",
+      "length" : "41394"
+   },
+   "170" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.six_frames.fna",
+      "queryname" : "frame_1.169",
+      "fullname" : "frame_1",
+      "length" : "7020"
+   },
+   "273" : {
+      "queryname" : "frame_6.272",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna",
+      "length" : "87970",
+      "fullname" : "frame_6"
+   },
+   "28" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_12.27",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "93415",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_12"
+   },
+   "16" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_28",
+      "length" : "18927",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_28.15"
+   },
+   "160" : {
+      "queryname" : "frame_5.159",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.six_frames.fna",
+      "length" : "6205",
+      "fullname" : "frame_5"
+   },
+   "112" : {
+      "fullname" : "frame_6",
+      "length" : "45336",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.six_frames.fna",
+      "queryname" : "frame_6.111"
+   },
+   "118" : {
+      "queryname" : "frame_3.117",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.six_frames.fna",
+      "length" : "105377",
+      "fullname" : "frame_3"
+   },
+   "88" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5",
+      "length" : "62994",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_155.87"
+   },
+   "289" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.six_frames.fna",
+      "queryname" : "frame_3.288",
+      "fullname" : "frame_3",
+      "length" : "58817"
+   },
+   "155" : {
+      "fullname" : "frame_1",
+      "length" : "45951",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.six_frames.fna",
+      "queryname" : "frame_1.154"
+   },
+   "240" : {
+      "queryname" : "frame_4.239",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.six_frames.fna",
+      "length" : "55833",
+      "fullname" : "frame_4"
+   },
+   "42" : {
+      "length" : "13509",
+      "fullname" : "AOIprotein2",
+      "queryname" : "AOIprotein2.41",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.tmp_proteins.fna"
+   },
+   "181" : {
+      "length" : "3120",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.180",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.six_frames.fna"
+   },
+   "12" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_31.11",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_31",
+      "length" : "99905"
+   },
+   "226" : {
+      "queryname" : "frame_2.225",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.six_frames.fna",
+      "length" : "47085",
+      "fullname" : "frame_2"
+   },
+   "98" : {
+      "queryname" : "frame_5.97",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.six_frames.fna",
+      "length" : "27448",
+      "fullname" : "frame_5"
+   },
+   "206" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3521.205",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21",
+      "length" : "20635"
+   },
+   "156" : {
+      "queryname" : "frame_5.155",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.six_frames.fna",
+      "length" : "45951",
+      "fullname" : "frame_5"
+   },
+   "107" : {
+      "fullname" : "frame_2",
+      "length" : "61395",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.six_frames.fna",
+      "queryname" : "frame_2.106"
+   },
+   "159" : {
+      "queryname" : "frame_6.158",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.six_frames.fna",
+      "length" : "6204",
+      "fullname" : "frame_6"
+   },
+   "187" : {
+      "queryname" : "frame_1.186",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.six_frames.fna",
+      "length" : "32755",
+      "fullname" : "frame_1"
+   },
+   "225" : {
+      "fullname" : "frame_6",
+      "length" : "47085",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.six_frames.fna",
+      "queryname" : "frame_6.224"
+   },
+   "221" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_420.220",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20",
+      "length" : "143612"
+   },
+   "21" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1.20",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "217137",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_1"
+   },
+   "260" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_3",
+      "length" : "40153",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.blast.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_3.259"
+   },
+   "268" : {
+      "fullname" : "frame_3",
+      "length" : "15836",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.six_frames.fna",
+      "queryname" : "frame_3.267"
+   },
+   "59" : {
+      "fullname" : "frame_1",
+      "length" : "42742",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.six_frames.fna",
+      "queryname" : "frame_1.58"
+   },
+   "234" : {
+      "queryname" : "frame_4.233",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.six_frames.fna",
+      "length" : "7388",
+      "fullname" : "frame_4"
+   },
+   "183" : {
+      "length" : "3121",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.182",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.six_frames.fna"
+   },
+   "85" : {
+      "queryname" : "frame_5.84",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.six_frames.fna",
+      "length" : "41394",
+      "fullname" : "frame_5"
+   },
+   "10" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_16",
+      "length" : "83719"
+   },
+   "25" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_9.24",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "179395",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_9"
+   },
+   "151" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_2711.150",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11",
+      "length" : "140152"
+   },
+   "100" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.six_frames.fna",
+      "queryname" : "frame_1.99",
+      "fullname" : "frame_1",
+      "length" : "27448"
+   },
+   "137" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4",
+      "length" : "70558",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_214.136"
+   },
+   "209" : {
+      "queryname" : "frame_5.208",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.six_frames.fna",
+      "length" : "6765",
+      "fullname" : "frame_5"
+   },
+   "163" : {
+      "queryname" : "frame_3.162",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.six_frames.fna",
+      "length" : "6204",
+      "fullname" : "frame_3"
+   },
+   "202" : {
+      "queryname" : "AOIprotein3.201",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.tmp_proteins.fna",
+      "length" : "7341",
+      "fullname" : "AOIprotein3"
+   },
+   "117" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_226.116",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.fna",
+      "length" : "321404",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26"
+   },
+   "167" : {
+      "fullname" : "frame_2",
+      "length" : "7019",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.six_frames.fna",
+      "queryname" : "frame_2.166"
+   },
+   "51" : {
+      "fullname" : "frame_5",
+      "length" : "17455",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.six_frames.fna",
+      "queryname" : "frame_5.50"
+   },
+   "270" : {
+      "length" : "268312",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825.269",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.fna"
+   },
+   "220" : {
+      "length" : "5479",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3923.219",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23.fna"
+   },
+   "264" : {
+      "length" : "15836",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.263",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.six_frames.fna"
+   },
+   "275" : {
+      "length" : "87971",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.274",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.six_frames.fna"
+   },
+   "145" : {
+      "length" : "39166",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.144",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.six_frames.fna"
+   },
+   "242" : {
+      "fullname" : "frame_5",
+      "length" : "55832",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.six_frames.fna",
+      "queryname" : "frame_5.241"
+   },
+   "286" : {
+      "queryname" : "frame_5.285",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.six_frames.fna",
+      "length" : "58817",
+      "fullname" : "frame_5"
+   },
+   "195" : {
+      "fullname" : "frame_1",
+      "length" : "8058",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.six_frames.fna",
+      "queryname" : "frame_1.194"
+   },
+   "23" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_2",
+      "length" : "321404",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_2.22"
+   },
+   "188" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.six_frames.fna",
+      "queryname" : "frame_4.187",
+      "fullname" : "frame_4",
+      "length" : "32755"
+   },
+   "147" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.six_frames.fna",
+      "queryname" : "frame_5.146",
+      "fullname" : "frame_5",
+      "length" : "39166"
+   },
+   "75" : {
+      "fullname" : "frame_5",
+      "length" : "18207",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.six_frames.fna",
+      "queryname" : "frame_5.74"
+   },
+   "182" : {
+      "fullname" : "frame_4",
+      "length" : "3121",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.six_frames.fna",
+      "queryname" : "frame_4.181"
+   },
+   "56" : {
+      "length" : "42742",
+      "fullname" : "frame_2",
+      "queryname" : "frame_2.55",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.six_frames.fna"
+   },
+   "149" : {
+      "length" : "39166",
+      "fullname" : "frame_2",
+      "queryname" : "frame_2.148",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.six_frames.fna"
+   },
+   "245" : {
+      "length" : "59490",
+      "fullname" : "frame_2",
+      "queryname" : "frame_2.244",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.six_frames.fna"
+   },
+   "8" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_13.7",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "55533",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_13"
+   },
+   "66" : {
+      "length" : "7824",
+      "fullname" : "AOIprotein6",
+      "queryname" : "AOIprotein6.65",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.tmp_proteins.fna"
+   },
+   "261" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_01.260",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.fna",
+      "length" : "47512",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01"
+   },
+   "262" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_825AOI_01.261",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.fna",
+      "length" : "47512",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01"
+   },
+   "201" : {
+      "length" : "7342",
+      "fullname" : "AOIprotein1",
+      "queryname" : "AOIprotein1.200",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.tmp_proteins.fna"
+   },
+   "200" : {
+      "queryname" : "AOIprotein5.199",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.tmp_proteins.fna",
+      "length" : "7341",
+      "fullname" : "AOIprotein5"
+   },
+   "165" : {
+      "length" : "21411",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_299.164",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.fna"
+   },
+   "31" : {
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_7",
+      "length" : "146994",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_7.30"
+   },
+   "32" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_40.31",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_40",
+      "length" : "5765"
+   },
+   "212" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.six_frames.fna",
+      "queryname" : "frame_4.211",
+      "fullname" : "frame_4",
+      "length" : "6765"
+   },
+   "39" : {
+      "length" : "71192",
+      "fullname" : "frame_2",
+      "queryname" : "frame_2.38",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.six_frames.fna"
+   },
+   "198" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.six_frames.fna",
+      "queryname" : "frame_2.197",
+      "fullname" : "frame_2",
+      "length" : "8057"
+   },
+   "13" : {
+      "length" : "170291",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_5",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_5.12",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "278" : {
+      "length" : "13703",
+      "fullname" : "AOIprotein2",
+      "queryname" : "AOIprotein2.277",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.tmp_proteins.fna"
+   },
+   "116" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1928.115",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28",
+      "length" : "4868"
+   },
+   "284" : {
+      "length" : "58818",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.283",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.six_frames.fna"
+   },
+   "15" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_39.14",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_39",
+      "length" : "5479"
+   },
+   "227" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.six_frames.fna",
+      "queryname" : "frame_3.226",
+      "fullname" : "frame_3",
+      "length" : "47085"
+   },
+   "62" : {
+      "fullname" : "AOIprotein1",
+      "length" : "7825",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.tmp_proteins.fna",
+      "queryname" : "AOIprotein1.61"
+   },
+   "123" : {
+      "fullname" : "frame_4",
+      "length" : "105378",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.six_frames.fna",
+      "queryname" : "frame_4.122"
+   },
+   "142" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.six_frames.fna",
+      "queryname" : "frame_2.141",
+      "fullname" : "frame_2",
+      "length" : "23133"
+   },
+   "288" : {
+      "queryname" : "frame_2.287",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.six_frames.fna",
+      "length" : "58817",
+      "fullname" : "frame_2"
+   },
+   "152" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.six_frames.fna",
+      "queryname" : "frame_2.151",
+      "fullname" : "frame_2",
+      "length" : "45951"
+   },
+   "189" : {
+      "queryname" : "frame_5.188",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.six_frames.fna",
+      "length" : "32755",
+      "fullname" : "frame_5"
+   },
+   "82" : {
+      "fullname" : "frame_3",
+      "length" : "41394",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.six_frames.fna",
+      "queryname" : "frame_3.81"
+   },
+   "196" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.six_frames.fna",
+      "queryname" : "frame_6.195",
+      "fullname" : "frame_6",
+      "length" : "8057"
+   },
+   "244" : {
+      "length" : "59490",
+      "fullname" : "frame_3",
+      "queryname" : "frame_3.243",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.six_frames.fna"
+   },
+   "251" : {
+      "fullname" : "frame_4",
+      "length" : "48194",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.six_frames.fna",
+      "queryname" : "frame_4.250"
+   },
+   "58" : {
+      "length" : "42742",
+      "fullname" : "frame_5",
+      "queryname" : "frame_5.57",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.six_frames.fna"
+   },
+   "161" : {
+      "queryname" : "frame_4.160",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.six_frames.fna",
+      "length" : "6205",
+      "fullname" : "frame_4"
+   },
+   "124" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.tmp_proteins.fna",
+      "queryname" : "AOIprotein6.123",
+      "fullname" : "AOIprotein6",
+      "length" : "13516"
+   },
+   "84" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.six_frames.fna",
+      "queryname" : "frame_6.83",
+      "fullname" : "frame_6",
+      "length" : "41394"
+   },
+   "238" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.six_frames.fna",
+      "queryname" : "frame_3.237",
+      "fullname" : "frame_3",
+      "length" : "55832"
+   },
+   "204" : {
+      "length" : "7342",
+      "fullname" : "AOIprotein4",
+      "queryname" : "AOIprotein4.203",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.tmp_proteins.fna"
+   },
+   "26" : {
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_14.25",
+      "filename" : "LP58_test/LP58_genome.fna",
+      "length" : "126255",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_14"
+   },
+   "197" : {
+      "fullname" : "frame_5",
+      "length" : "8057",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.six_frames.fna",
+      "queryname" : "frame_5.196"
+   },
+   "22" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_4.21",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_4",
+      "length" : "143612"
+   },
+   "168" : {
+      "fullname" : "frame_5",
+      "length" : "7019",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.six_frames.fna",
+      "queryname" : "frame_5.167"
+   },
+   "19" : {
+      "length" : "70558",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_21",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_21.18",
+      "filename" : "LP58_test/LP58_genome.fna"
+   },
+   "104" : {
+      "length" : "61395",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.103",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.six_frames.fna"
+   },
+   "69" : {
+      "fullname" : "frame_2",
+      "length" : "30627",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.six_frames.fna",
+      "queryname" : "frame_2.68"
+   },
+   "143" : {
+      "fullname" : "frame_3",
+      "length" : "23133",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.six_frames.fna",
+      "queryname" : "frame_3.142"
+   },
+   "213" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31",
+      "length" : "23976",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_3831.212"
+   },
+   "158" : {
+      "length" : "18927",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_2829.157",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.fna"
+   },
+   "103" : {
+      "fullname" : "frame_1",
+      "length" : "61395",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.six_frames.fna",
+      "queryname" : "frame_1.102"
+   },
+   "54" : {
+      "length" : "130365",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_118.53",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.fna"
+   },
+   "81" : {
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22",
+      "length" : "126255",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1422.80"
+   },
+   "237" : {
+      "fullname" : "frame_2",
+      "length" : "55832",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.six_frames.fna",
+      "queryname" : "frame_2.236"
+   },
+   "265" : {
+      "length" : "15837",
+      "fullname" : "frame_5",
+      "queryname" : "frame_5.264",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI_01.six_frames.fna"
+   },
+   "18" : {
+      "filename" : "LP58_test/LP58_genome.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_38.17",
+      "fullname" : "NCS1933_R1_clipped_(paired)_trimmed_(paired)_contig_38",
+      "length" : "23976"
+   },
+   "63" : {
+      "fullname" : "AOIprotein2",
+      "length" : "7825",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.tmp_proteins.fna",
+      "queryname" : "AOIprotein2.62"
+   },
+   "72" : {
+      "length" : "30627",
+      "fullname" : "frame_4",
+      "queryname" : "frame_4.71",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.six_frames.fna"
+   },
+   "246" : {
+      "length" : "59490",
+      "fullname" : "frame_6",
+      "queryname" : "frame_6.245",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.six_frames.fna"
+   },
+   "162" : {
+      "length" : "6205",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.161",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.six_frames.fna"
+   },
+   "95" : {
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.fna",
+      "queryname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_1612.94",
+      "fullname" : "NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12",
+      "length" : "83719"
+   },
+   "77" : {
+      "length" : "18207",
+      "fullname" : "frame_1",
+      "queryname" : "frame_1.76",
+      "filename" : "LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.six_frames.fna"
+   }
+}

@@ -1,0 +1,118 @@
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_29.9
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_10.10
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_27.11
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_16.12
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_1.13
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_22.14
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_17.15
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_7.16
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_13.17
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_12.18
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_20.1
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_30.19
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_4.20
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_35.21
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_14.22
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_39.23
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_31.24
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25
+./bagel4_AOI_annotation.pl -s LP58_test -model false -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25
+.//bagel4_promoterprediction.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.fna
+.//bagel4_transterm.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.AOI.fna
+./bagel4_promoter_term_2_json.pl -s LP58_test -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25
+./bagel4_GeneTable_2_json.pl -s LP58_test -table NCS1933_R1_clipped_paired_trimmed_paired_contig_8.25.GeneTables
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_2.26
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_6.27
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_19.28
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_40.2
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_28.29
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_9.30
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_38.31
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_32.32
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_5.3
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_21.4
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_15.5
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_18.6
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_3.7
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_11.8
+.//bagel4_clean_tmpfiles.pl -s LP58_test
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_41.0
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_16.9
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/frame_1.99.fna -queryname frame_1.99
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/frame_1.99.fna -queryname frame_1.99
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/frame_1.99.fna -queryname frame_1.99
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/frame_4.100.fna -queryname frame_4.100
+./bagel4_AOI_identification_blast_bacteriocins.pl -s LP58_test -translate true -dna LP58_test/frame_4.100.fna -queryname frame_4.100
+./bagel4_AOI_merge.pl -s LP58_test -dna LP58_test/frame_4.100.fna -queryname frame_4.100
+./bagel4_AOI_identification_hmm_rules.pl -s LP58_test -dna LP58_test/NCS1933_R1_clipped_paired_trimmed_paired_contig_1715.101.fna -queryname NCS1933_R1_clipped_paired_trimmed_paired_contig_1715.101
